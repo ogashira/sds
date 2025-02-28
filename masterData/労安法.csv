@@ -1,0 +1,779 @@
+番号,表示・通知義務対象物質,CAS番号,表示裾切,通知裾切,Substances,"Content (Weight Percent)
+for GHS Label","Content (Weight Percent)
+for SDS",特化則※１,有機則※２,鉛則・四アルキル鉛則※３,石綿則※４,表示LEFT,表示value,通知LEFT,通知value
+,別表第３第１号,,,,Attached Table 3（1）,,,,,,,,,,
+1,ジクロルベンジジン及びその塩,91-94-1他,0.1%未満,0.1%未満,Dichlorobenzidine and its salts,"0.1%, no less than ","0.1%, no less than ",○第1類,,,,0.1%,0.1%,0.1%,0.1%
+2,アルファ－ナフチルアミン及びその塩,134-32-7他,1%未満,1%未満,α-Naphthylamine and its salts,"1%, no less than ","1%, no less than ",○第1類,,,,1%,1.0%,1%,1.0%
+3,塩素化ビフェニル（別名ＰＣＢ）,＊,0.1%未満,0.1%未満,Polychlorinated biphenyl (alias PCB),"0.1%, no less than ","0.1%, no less than ",○第1類,,,,0.1%,0.1%,0.1%,0.1%
+4,オルト－トリジン及びその塩,119-93-7他,1%未満,0.1%未満,o-Tolidine and its salts,"1%, no less than ","0.1%, no less than ",○第1類,,,,1%,1.0%,0.1%,0.1%
+5,ジアニシジン及びその塩,119-90-4他,1%未満,0.1%未満,Dianisidine and its salts,"1%, no less than ","0.1%, no less than ",○第1類,,,,1%,1.0%,0.1%,0.1%
+6,ベリリウム及びその化合物,＊,0.1%未満,0.1%未満,Beryllium and its compounds,"0.1%, no less than ","0.1%, no less than ",○第1類,,,,0.1%,0.1%,0.1%,0.1%
+7,ベンゾトリクロリド,98-07-7,0.1%未満,0.1%未満,Benzotrichloride,"0.1%, no less than ","0.1%, no less than ",○第1類,,,,0.1%,0.1%,0.1%,0.1%
+,別表第９,,,,Attached Table 9,,,,,,,#VALUE!,#VALUE!,#VALUE!,#VALUE!
+1,アクリルアミド,79-06-1,0.1%未満,0.1%未満,Acrylamide,"0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+2,アクリル酸,79-10-7,1%未満,1%未満,Acrylic acid,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+3,アクリル酸エチル,140-88-5,1%未満,0.1%未満,Ethyl acrylate,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+4,アクリル酸ノルマル－ブチル,141-32-2,1%未満,0.1%未満,n-Butyl acrylate,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+5,アクリル酸２－ヒドロキシプロピル,999-61-1,1%未満,0.1%未満,2-Hydroxypropyl acrylate,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+6,アクリル酸メチル,96-33-3,1%未満,0.1%未満,Methyl acrylate,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+7,アクリロニトリル,107-13-1,1%未満,0.1%未満,Acrylonitrile,"1%, no less than ","0.1%, no less than ",○第2類,,,,1%,1.0%,0.1%,0.1%
+8,アクロレイン,107-02-8,1%未満,1%未満,Acrolein,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+9,アジ化ナトリウム,26628-22-8,1%未満,1%未満,Sodium azide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+10,アジピン酸,124-04-9,1%未満,1%未満,Adipic acid,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+11,アジポニトリル,111-69-3,1%未満,1%未満,Adiponitrile,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+11-2,亜硝酸イソブチル,542-56-3,1%未満,0.1%未満,Isobutyl nitrite,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+11-3,アスファルト,8052-42-4,1%未満,0.1%未満,Asphalt,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+11-4,アセチルアセトン,123-54-6,1%未満,1%未満,Acetylacetone,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+12,アセチルサリチル酸（別名アスピリン）,50-78-2,0.3%未満,0.1%未満,Acetylsalicylic acid (alias Aspirin),"0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+13,アセトアミド,60-35-5,1%未満,0.1%未満,Acetamide,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+14,アセトアルデヒド,75-07-0,1%未満,0.1%未満,Acetaldehyde,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+15,アセトニトリル,75-05-8,1%未満,1%未満,Acetonitrile,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+16,アセトフェノン,98-86-2,1%未満,1%未満,Acetophenone,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+17,アセトン,67-64-1,1%未満,0.1%未満,Acetone,"1%, no less than ","0.1%, no less than ",,○第2種,,,1%,1.0%,0.1%,0.1%
+18,アセトンシアノヒドリン,75-86-5,1%未満,1%未満,Acetone cyanohydrin,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+19,アニリン,62-53-3,1%未満,0.1%未満,Aniline,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+20,アミド硫酸アンモニウム,7773-06-0,1%未満,1%未満,Ammonium amidosulfate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+21,２－アミノエタノール,141-43-5,1%未満,0.1%未満,2-Aminoethanol,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+22,４－アミノ－６－ターシャリ－ブチル－３－メチルチオ－１，２，４－トリアジン－５（４Ｈ）－オン（別名メトリブジン）,21087-64-9,1%未満,1%未満,"4-Amino-6-tert-butyl-3-methylthio-1,2,4-triazin-5(4H)-one (alias Metribuzin)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+23,３－アミノ－１Ｈ－１，２，４－トリアゾール（別名アミトロール）,61-82-5,1%未満,0.1%未満,"3-Amino-1H-1,2,4-triazole (alias Amitrole)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+24,４―アミノ―３，５，６―トリクロロピリジン―２―カルボン酸（別名ピクロラム）,1918-02-1,1%未満,1%未満,"4-Amino-3,5,6-trichloropyridine-2-carboxylic acid (alias Picloram)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+25,２―アミノピリジン,504-29-0,1%未満,1%未満,2-Aminopyridine,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+26,亜硫酸水素ナトリウム,7631-90-5,1%未満,1%未満,Sodium hydrogen sulfite,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+27,アリルアルコール,107-18-6,1%未満,1%未満,Allyl alcohol,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+28,１―アリルオキシ―２，３―エポキシプロパン,106-92-3,1%未満,0.1%未満,"1-Allyloxy-2,3-epoxypropane","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+29,アリル水銀化合物,＊,1%未満,0.1%未満,Arylmercury compounds,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+30,アリル―ノルマル―プロピルジスルフィド,2179-59-1,1%未満,0.1%未満,Allyl n-propyl disulfide,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+31,亜りん酸トリメチル,121-45-9,1%未満,1%未満,Trimethyl phosphite,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+32,アルキルアルミニウム化合物,＊,1%未満,1%未満,Alkylaluminum compounds,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+33,アルキル水銀化合物,＊,0.3%未満,0.1%未満,Alkylmercury compounds,"0.3%, no less than ","0.1%, no less than ","○第2類
+※アルキル基がメチル基又はエチル基である物に限る。",,,,0.3%,0.3%,0.1%,0.1%
+34,３―（アルファ―アセトニルベンジル）―４―ヒドロキシクマリン（別名ワルファリン）,81-81-2,0.3%未満,0.1%未満,3-(α-Acetonylbenzyl)-4-hydroxycoumarin (alias Warfarin),"0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+35,アルファ，アルファ―ジクロロトルエン,98-87-3,0.1%未満,0.1%未満,"α,α-Dichlorotoluene","0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+36,アルファ―メチルスチレン,98-83-9,1%未満,0.1%未満,α-Methylstyrene,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+37,アルミニウム,7429-90-5,1%未満,1%未満,Aluminum,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+37,アルミニウム水溶性塩,＊,1%未満,0.1%未満,Water-soluble aluminum salts,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+38,アンチモン及びその化合物（三酸化二アンチモンを除く。）,＊,1%未満,0.1%未満,Antimony and its compounds (excluding Antimony trioxide),"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+38,三酸化二アンチモン,1309-64-4,0.1%未満,0.1%未満,Antimony trioxide,"0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+39,アンモニア,7664-41-7,0.2%未満,0.1%未満,Ammonia,"0.2%, no less than ","0.1%, no less than ",○第3類,,,,0.2%,0.2%,0.1%,0.1%
+39-2,石綿（労働安全衛生法施行令第16条第1項第4号イからハまでに掲げる物で同号の厚生労働省令で定めるものに限る。）,＊,0.1%未満,0.1%未満,Asbestos,"0.1%, no less than ","0.1%, no less than ",,,,製造許可,0.1%,0.1%,0.1%,0.1%
+40,３―イソシアナトメチル―３，５，５―トリメチルシクロヘキシル＝イソシアネート,4098-71-9,1%未満,0.1%未満,"3-Isocyanatomethyl-3,5,5-trimethylcyclohexyl isocyanate","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+41,イソシアン酸メチル,624-83-9,0.3%未満,0.1%未満,Methyl isocyanate,"0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+42,イソプレン,78-79-5,1%未満,0.1%未満,Isoprene,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+43,Ｎ―イソプロピルアニリン,768-52-5,1%未満,0.1%未満,N-Isopropylaniline,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+44,Ｎ―イソプロピルアミノホスホン酸Ｏ―エチル―Ｏ―（３―メチル―４―メチルチオフェニル）（別名フェナミホス）,22224-92-6,1%未満,0.1%未満,O-Ethyl-O-(3-methyl-4-methylthiophenyl) N-isopropylaminophosphonate; Ethyl 3-methyl-4-(methylthio)phenyl (isopropyl)phosphoramidate (alias Fenamiphos),"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+45,イソプロピルアミン,75-31-0,1%未満,1%未満,Isopropylamine,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+46,イソプロピルエーテル,108-20-3,1%未満,0.1%未満,Isopropyl ether,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+47,３′―イソプロポキシ―２―トリフルオロメチルベンズアニリド（別名フルトラニル）,66332-96-5,1%未満,1%未満,3'-Isopropoxy-2-trifluoromethylbenzanilide (alias Flutolanil),"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+48,イソペンチルアルコール（別名イソアミルアルコール）,123-51-3,1%未満,1%未満,Isopentyl alcohol (alias Isoamylalcohol),"1%, no less than ","1%, no less than ",,○第2種,,,1%,1.0%,1%,1.0%
+49,イソホロン,78-59-1,1%未満,0.1%未満,Isophorone,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+50,一塩化硫黄,10025-67-9,1%未満,1%未満,Sulfur monochloride,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+51,一酸化炭素,630-08-0,0.3%未満,0.1%未満,Carbon monoxide,"0.3%, no less than ","0.1%, no less than ",○第3類,,,,0.3%,0.3%,0.1%,0.1%
+52,一酸化窒素,10102-43-9,1%未満,1%未満,Nitrogen monoxide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+53,一酸化二窒素,10024-97-2,0.3%未満,0.1%未満,Dinitrogen oxide,"0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+54,イットリウム及びその化合物,＊,1%未満,1%未満,Yttrium and its compounds,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+55,イプシロン―カプロラクタム,105-60-2,1%未満,1%未満,ε-Caprolactam,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+56,２―イミダゾリジンチオン,96-45-7,0.3%未満,0.1%未満,2-Imidazolidinethione,"0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+57,４，４′―（４―イミノシクロヘキサ―２，５―ジエニリデンメチル）ジアニリン塩酸塩（別名ＣＩベイシックレッド９）,569-61-9,1%未満,0.1%未満,"4,4'-(4-Iminocyclohexa-2,5-dienylidenemethylene)dianiline hydrochloride (alias CI basic red 9)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+58,インジウム,7440-74-6,1%未満,1%未満,Indium,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+58,インジウム化合物,＊,0.1%未満,0.1%未満,Indium compounds,"0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+59,インデン,95-13-6,1%未満,1%未満,Indene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+60,ウレタン,51-79-6,0.1%未満,0.1%未満,Urethane,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+61,エタノール,64-17-5,0.1%未満,0.1%未満,Ethanol,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+62,エタンチオール,75-08-1,1%未満,1%未満,Ethanethiol,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+63,エチリデンノルボルネン,16219-75-3,1%未満,0.1%未満,Ethylidenenorbornene,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+64,エチルアミン,75-04-7,1%未満,1%未満,Ethylamine,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+65,エチルエーテル,60-29-7,1%未満,0.1%未満,Ethyl ether,"1%, no less than ","0.1%, no less than ",,○第2種,,,1%,1.0%,0.1%,0.1%
+66,エチル―セカンダリ―ペンチルケトン,541-85-5,1%未満,1%未満,Ethyl sec-pentyl ketone,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+67,エチル―パラ―ニトロフェニルチオノベンゼンホスホネイト（別名ＥＰＮ）,2104-64-5,1%未満,0.1%未満,Ethyl p-nitrophenyl thionobenzenephosphonate (alias EPN),"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+68,Ｏ―エチル―Ｓ―フェニル＝エチルホスホノチオロチオナート（別名ホノホス）,944-22-9,1%未満,0.1%未満,O-Ethyl S-phenyl ethylphosphonodithioate (alias Fonofos),"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+69,２―エチルヘキサン酸,149-57-5,0.3%未満,0.1%未満,2-Ethylhexanoic acid,"0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+70,エチルベンゼン,100-41-4,0.1%未満,0.1%未満,Ethylbenzene,"0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+71,エチルメチルケトンペルオキシド,1338-23-4,1%未満,1%未満,Ethyl methyl ketone peroxide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+72,Ｎ―エチルモルホリン,100-74-3,1%未満,1%未満,N-Ethylmorpholine,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+72-2,エチレン,74-85-1,1%未満,1%未満,Ethylen,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+73,エチレンイミン,151-56-4,0.1%未満,0.1%未満,Ethyleneimine,"0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+74,エチレンオキシド,75-21-8,0.1%未満,0.1%未満,Ethylene oxide,"0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+75,エチレングリコール,107-21-1,1%未満,1%未満,Ethylene glycol,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+76,エチレングリコールモノイソプロピルエーテル,109-59-1,1%未満,1%未満,Ethylene glycol monoisopropyl ether,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+77,エチレングリコールモノエチルエーテル（別名セロソルブ）,110-80-5,0.3%未満,0.1%未満,Ethylene glycol monoethyl ether (alias Cellosolve),"0.3%, no less than ","0.1%, no less than ",,○第2種,,,0.3%,0.3%,0.1%,0.1%
+78,エチレングリコールモノエチルエーテルアセテート（別名セロソルブアセテート） ,111-15-9,0.3%未満,0.1%未満,Ethylene glycol monoethyl ether acetate (alias Cellosolve acetate),"0.3%, no less than ","0.1%, no less than ",,○第2種,,,0.3%,0.3%,0.1%,0.1%
+79,エチレングリコールモノ―ノルマル―ブチルエーテル（別名ブチルセロソルブ） ,111-76-2,1%未満,0.1%未満,Ethylene glycol mono-n-butyl ether (alias Butyl cellosolve),"1%, no less than ","0.1%, no less than ",,○第2種,,,1%,1.0%,0.1%,0.1%
+79-2,エチレングリコールモノブチルエーテルアセタート,112-07-2,1%未満,0.1%未満,Ethylene glycol monobutyl ether acetate,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+80,エチレングリコールモノメチルエーテル（別名メチルセロソルブ）,109-86-4,0.3%未満,0.1%未満,Ethylene glycol monomethyl ether (alias Methyl cellosolve),"0.3%, no less than ","0.1%, no less than ",,○第2種,,,0.3%,0.3%,0.1%,0.1%
+81,エチレングリコールモノメチルエーテルアセテート,110-49-6,0.3%未満,0.1%未満,Ethylene glycol monomethyl ether acetate,"0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+82,エチレンクロロヒドリン,107-07-3,0.1%未満,0.1%未満,Ethylene chlorohydrin,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+83,エチレンジアミン,107-15-3,1%未満,0.1%未満,Ethylenediamine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+84,１，１′―エチレン―２，２′―ビピリジニウム＝ジブロミド（別名ジクアット）,85-00-7,1%未満,0.1%未満,"1,1'-Ethylene-2,2'-bipyridinium dibromide (alias Diquat)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+85,２―エトキシ―２，２―ジメチルエタン,637-92-3,1%未満,1%未満,"2-Ethoxy-2,2-dimethylethane; 2-Ethoxy-2-methylpropane","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+86,２―（４―エトキシフェニル）―２―メチルプロピル＝３―フェノキシベンジルエーテル（別名エトフェンプロックス）,80844-07-1,1%未満,1%未満,2-(4-Ethoxyphenyl)-2-methylpropyl 3-phenoxybenzyl ether (alias Etofenprox),"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+87,エピクロロヒドリン,106-89-8,0.1%未満,0.1%未満,Epichlorohydrin,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+88,１，２―エポキシ―３―イソプロポキシプロパン,4016-14-2,1%未満,1%未満,"1,2-Epoxy-3-isopropoxypropane","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+89,２，３―エポキシ―１―プロパナール,765-34-4,1%未満,0.1%未満,"2,3-Epoxy-1-propanal","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+90,２，３―エポキシ―１―プロパノール,556-52-5,0.1%未満,0.1%未満,"2,3-Epoxy-1-propanol","0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+91,２，３―エポキシプロピル＝フェニルエーテル,122-60-1,1%未満,0.1%未満,"2,3-Epoxypropyl phenyl ether","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+92,エメリー,1302-74-5,1%未満,1%未満,Emery,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+93,エリオナイト,12510-42-8,0.1%未満,0.1%未満,Erionite,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+94,塩化亜鉛,7646-85-7,1%未満,0.1%未満,Zinc chloride,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+95,塩化アリル,107-05-1,1%未満,0.1%未満,Allyl chloride,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+96,塩化アンモニウム,12125-02-9,1%未満,1%未満,Ammonium chloride,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+97,塩化シアン,506-77-4,1%未満,1%未満,Cyanogen chloride,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+98,塩化水素,7647-01-0,0.2%未満,0.1%未満,Hydrogen chloride,"0.2%, no less than ","0.1%, no less than ",○第3類,,,,0.2%,0.2%,0.1%,0.1%
+99,塩化チオニル,7719-09-7,1%未満,1%未満,Thionyl chloride,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+100,塩化ビニル,75-01-4,0.1%未満,0.1%未満,Vinyl chloride,"0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+101,塩化ベンジル,100-44-7,1%未満,0.1%未満,Benzyl chloride,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+102,塩化ベンゾイル,98-88-4,1%未満,1%未満,Benzoyl chloride,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+103,塩化ホスホリル,10025-87-3,1%未満,1%未満,Phosphoryl chloride,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+104,塩素,7782-50-5,1%未満,1%未満,Chlorine,"1%, no less than ","1%, no less than ",○第2類,,,,1%,1.0%,1%,1.0%
+105,塩素化カンフェン（別名トキサフェン）,8001-35-2,1%未満,0.1%未満,Chlorinated camphene (alias Toxaphene),"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+106,塩素化ジフェニルオキシド,31242-93-0,1%未満,1%未満,Chlorinated diphenyloxide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+107,黄りん,12185-10-3,1%未満,0.1%未満,Yellow Phosphorus,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+108,４，４′―オキシビス（２―クロロアニリン）,28434-86-8,1%未満,0.1%未満,"4,4'-Oxybis(2-chloroaniline)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+109,オキシビス（チオホスホン酸）Ｏ，Ｏ，Ｏ′，Ｏ′―テトラエチル（別名スルホテップ）,3689-24-5,1%未満,0.1%未満,"O,O,O',O'-Tetraethyl oxybis(thiophosphonate) (alias Sulfotep)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+110,４，４′―オキシビスベンゼンスルホニルヒドラジド,80-51-3,1%未満,1%未満,"4,4'-Oxybis(benzenesulfonylhydrazide)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+111,オキシビスホスホン酸四ナトリウム,7722-88-5,1%未満,1%未満,Tetrasodium oxybisphosphonate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+112,オクタクロロナフタレン,2234-13-1,1%未満,1%未満,Octachloronaphthalene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+113,１，２，４，５，６，７，８，８―オクタクロロ―２，３，３ａ，４，７，７ａ―ヘキサヒドロ―４，７―メタノ―１Ｈ―インデン（別名クロルデン）,57-74-9,1%未満,0.1%未満,"1,2,4,5,6,7,8,8-Octachloro-2,3,3a,4,7,7a-hexahydro-4,7-methano-1H-indene (alias Chlordane)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+114,２―オクタノール,123-96-6,1%未満,1%未満,2-Octanol,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+115,オクタン,111-65-9他,1%未満,1%未満,Octane,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+116,オゾン,10028-15-6,1%未満,0.1%未満,Ozone,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+117,オメガ―クロロアセトフェノン,532-27-4,1%未満,0.1%未満,ω-Chloroacetophenone,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+118,オーラミン,492-80-8,1%未満,0.1%未満,Auramine,"1%, no less than ","0.1%, no less than ",○第2類,,,,1%,1.0%,0.1%,0.1%
+119,オルト―アニシジン,90-04-0,1%未満,0.1%未満,o-Anisidine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+120,オルト―クロロスチレン,2039-87-4,1%未満,1%未満,o-Chlorostyrene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+121,オルト―クロロトルエン,95-49-8,1%未満,1%未満,o-Chlorotoluene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+122,オルト―ジクロロベンゼン ,95-50-1,1%未満,1%未満,o-Dichlorobenzene,"1%, no less than ","1%, no less than ",,○第2種,,,1%,1.0%,1%,1.0%
+123,オルト―セカンダリ―ブチルフェノール,89-72-5,1%未満,1%未満,o-sec-Butylphenol,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+124,オルト―ニトロアニソール,91-23-6,1%未満,0.1%未満,o-Nitroanisole,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+125,オルト―フタロジニトリル,91-15-6,1%未満,1%未満,o-Phthalodinitrile,"1%, no less than ","1%, no less than ",○第2類,,,,1%,1.0%,1%,1.0%
+126,過酸化水素,7722-84-1,1%未満,0.1%未満,Hydrogen peroxide,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+127,ガソリン,8006-61-9,1%未満,0.1%未満,Gasoline,"1%, no less than ","0.1%, no less than ",,○第3種,,,1%,1.0%,0.1%,0.1%
+128,カテコール,120-80-9,1%未満,0.1%未満,Catechol,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+129,カドミウム及びその化合物,＊,0.1%未満,0.1%未満,Cadmium and its compounds,"0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+130,カーボンブラック,1333-86-4,1%未満,0.1%未満,Carbon black,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+131,カルシウムシアナミド,156-62-7,1%未満,1%未満,Calcium cyanamide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+132,ぎ酸,64-18-6,1%未満,1%未満,Formic acid,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+133,ぎ酸エチル,109-94-4,1%未満,1%未満,Ethyl formate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+134,ぎ酸メチル,107-31-3,1%未満,1%未満,Methyl formate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+135,キシリジン,1300-73-8,1%未満,0.1%未満,Xylidine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+135,２，３－キシリジン,87-59-2,1%未満,0.1%未満,"2,3-Xylidine","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+135,２，４－キシリジン,95-68-1,1%未満,0.1%未満,"2,4-Xylidine","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+135,２，５－キシリジン,95-78-3,1%未満,0.1%未満,"2,5-Xylidine","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+135,２，６－キシリジン,87-62-7,1%未満,0.1%未満,"2,6-Xylidine","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+135,３，４－キシリジン,95-64-7,1%未満,0.1%未満,"3,4--Xylidine","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+135,３，５－キシリジン,108-69-0,1%未満,0.1%未満,"3,5-Xylidine","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+136,キシレン,1330-20-7,0.3%未満,0.1%未満,Xylene,"0.3%, no less than ","0.1%, no less than ",,○第2種,,,0.3%,0.3%,0.1%,0.1%
+136,ｏ－キシレン,95-47-6,0.3%未満,0.1%未満,o-Xylene,"0.3%, no less than ","0.1%, no less than ",,○第2種,,,0.3%,0.3%,0.1%,0.1%
+136,ｍ－キシレン,108-38-3,0.3%未満,0.1%未満,m-Xylene,"0.3%, no less than ","0.1%, no less than ",,○第2種,,,0.3%,0.3%,0.1%,0.1%
+136,ｐ－キシレン,106-42-3,0.3%未満,0.1%未満,p-Xylene,"0.3%, no less than ","0.1%, no less than ",,○第2種,,,0.3%,0.3%,0.1%,0.1%
+137,銀及びその水溶性化合物,＊,1%未満,0.1%未満,Silver and its water-soluble compounds,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+138,クメン,98-82-8,1%未満,0.1%未満,Cumene,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+139,グルタルアルデヒド,111-30-8,1%未満,0.1%未満,Glutaraldehyde,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+140,クレオソート油,61789-28-4,0.1%未満,0.1%未満,Creosote oil,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+141,クレゾール,1319-77-3,1%未満,0.1%未満,Cresol,"1%, no less than ","0.1%, no less than ",,○第2種,,,1%,1.0%,0.1%,0.1%
+141,ｏ－クレゾール,95-48-7,1%未満,0.1%未満,o-Cresol,"1%, no less than ","0.1%, no less than ",,○第2種,,,1%,1.0%,0.1%,0.1%
+141,ｍ－クレゾール,108-39-4,1%未満,0.1%未満,m-Cresol,"1%, no less than ","0.1%, no less than ",,○第2種,,,1%,1.0%,0.1%,0.1%
+141,ｐ－クレゾール,106-44-5,1%未満,0.1%未満,p-Cresol,"1%, no less than ","0.1%, no less than ",,○第2種,,,1%,1.0%,0.1%,0.1%
+142,クロム及びその化合物（クロム酸及びクロム酸塩並びに重クロム酸及び重クロム酸塩を除く。）,＊,1%未満,0.1%未満,"Chromium and its compounds (excluding Chromic acid, Dichromic acid and its salts)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+142,クロム酸及びクロム酸塩,＊,0.1%未満,0.1%未満,Chromic acid and its salts,"0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+142,重クロム酸及び重クロム酸塩,＊,0.1%未満,0.1%未満,Dichromic acid and its salts,"0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+143,クロロアセチル＝クロリド,79-04-9,1%未満,1%未満,Chloroacetyl chloride,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+144,クロロアセトアルデヒド,107-20-0,1%未満,0.1%未満,Chloroacetaldehyde,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+145,クロロアセトン,78-95-5,1%未満,1%未満,Chloroacetone,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+146,クロロエタン（別名塩化エチル）,75-00-3,1%未満,0.1%未満,Chloroethane (alias Ethyl chloride),"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+147,２―クロロ―４―エチルアミノ―６―イソプロピルアミノ―１，３，５―トリアジン（別名アトラジン）,1912-24-9,1%未満,0.1%未満,"2-Chloro-4-ethylamino-6-isopropylamino-1,3,5-triazine (alias Atrazine)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+148,４―クロロ―オルト―フェニレンジアミン,95-83-0,1%未満,0.1%未満,4-Chloro-o-phenylenediamine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+148-2,クロロ酢酸,79-11-8,1%未満,1%未満,Chloroacetic acid,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+149,クロロジフルオロメタン（別名ＨＣＦＣ―２２）,75-45-6,1%未満,0.1%未満,Chlorodifluoromethane (alias HCFC-22),"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+150,２―クロロ―６―トリクロロメチルピリジン（別名ニトラピリン）,1929-82-4,1%未満,1%未満,2-Chloro-6-trichloromethylpyridine (alias Nitrapyrin),"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+151,２―クロロ―１，１，２―トリフルオロエチルジフルオロメチルエーテル（別名エンフルラン）,13838-16-9,1%未満,0.1%未満,"2-Chloro-1,1,2-trifluoroethyl difluoromethyl ether (alias Enflurane)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+152,１―クロロ―１―ニトロプロパン,600-25-9,1%未満,1%未満,1-Chloro-1-nitropropane,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+153,クロロピクリン,76-06-2,1%未満,1%未満,Chloropicrin,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+154,クロロフェノール,25167-80-0,1%未満,0.1%未満,Chlorophenol,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+154,ｏ－クロロフェノール,95-57-8,1%未満,0.1%未満,o-Chlorophenol,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+154,ｍ－クロロフェノール,108-43-0,1%未満,0.1%未満,m-Chlorophenol,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+154,ｐ－クロロフェノール,106-48-9,1%未満,0.1%未満,p-Chlorophenol,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+155,２―クロロ―１，３―ブタジエン,126-99-8,1%未満,0.1%未満,"2-Chloro-1,3-butadiene","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+155-2,１―クロロ―２プロパノール,127-00-4,1%未満,1%未満,1-Chloro-2-propanol,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+155-3,２―クロロ―１プロパノール,78-89-7,1%未満,1%未満,2-Chloro-1-propanol,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+156,２―クロロプロピオン酸,598-78-7,1%未満,1%未満,2-Chloropropyonic acid,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+157,２―クロロベンジリデンマロノニトリル,2698-41-1,1%未満,1%未満,2-Chlorobenzylidenemalononitrile,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+158,クロロベンゼン,108-90-7,1%未満,0.1%未満,Chlorobenzene,"1%, no less than ","0.1%, no less than ",,○第2種,,,1%,1.0%,0.1%,0.1%
+159,クロロペンタフルオロエタン（別名ＣＦＣ―１１５）,76-15-3,1%未満,1%未満,Chloropentafluoroethane (alias CFC-115),"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+160,クロロホルム,67-66-3,1%未満,0.1%未満,Chloroform,"1%, no less than ","0.1%, no less than ",○第2類,,,,1%,1.0%,0.1%,0.1%
+161,クロロメタン（別名塩化メチル）,74-87-3,0.3%未満,0.1%未満,Chloromethane (alias Methyl chloride),"0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+162,４―クロロ―２―メチルアニリン,95-69-2,0.1%未満,0.1%未満,4-Chloro-2-methylaniline,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+162,４―クロロ―２―メチルアニリン塩酸塩,3165-93-3,0.1%未満,0.1%未満,4-Chloro-2-methylaniline hydrochloride,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+162-2,Ｏ―３―クロロ―４―メチル―２―オキソ―２Ｈ―クロメン―７―イル＝Ｏ′Ｏ′′―ジエチル＝ホスホロチオアート,56-72-4,1%未満,1%未満,"O-3-Chloro-4-methyl-2-oxo-2H-chromen-7-yl O,O-diethyl phosphorothioate","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+163,クロロメチルメチルエーテル,107-30-2,0.1%未満,0.1%未満,Chloromethyl methyl ether,"0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+164,軽油,64741-44-2,1%未満,0.1%未満,Light oil; Gas oil,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+165,けつ岩油,68308-34-9,0.1%未満,0.1%未満,Shale oils,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+165-2,結晶質シリカ,14808-60-7他,0.1%未満,0.1%未満,"Silica, crystalline","0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+166,ケテン,463-51-4,1%未満,1%未満,Ketene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+167,ゲルマン,7782-65-2,1%未満,1%未満,Germanium tetrahydride,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+168,鉱油,＊,1%未満,0.1%未満,Mineral oil,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+169,五塩化りん,10026-13-8,1%未満,1%未満,Phosphorus pentachloride,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+170,固形パラフィン,8002-74-2,1%未満,1%未満,Paraffin wax,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+171,五酸化バナジウム ,1314-62-1,0.1%未満,0.1%未満,Vanadium pentaoxide,"0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+172,コバルト及びその化合物,＊,0.1%未満,0.1%未満,Cobalt and its compounds,"0.1%, no less than ","0.1%, no less than ","○第2類
+※有機化合物を除く",,,,0.1%,0.1%,0.1%,0.1%
+173,五弗化臭素,7789-30-2,1%未満,1%未満,Bromine pentafluoride,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+174,コールタール,＊,0.1%未満,0.1%未満,Coal tar,"0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+175,コールタールナフサ,＊,1%未満,1%未満,Coal tar naphtha,"1%, no less than ","1%, no less than ",,○第3種,,,1%,1.0%,1%,1.0%
+176,酢酸,64-19-7,1%未満,1%未満,Acetic acid,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+177,酢酸エチル,141-78-6,1%未満,1%未満,Ethyl acetate,"1%, no less than ","1%, no less than ",,○第2種,,,1%,1.0%,1%,1.0%
+178,酢酸１，３―ジメチルブチル,108-84-9,1%未満,1%未満,"1,3-Dimethylbutyl acetate","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+179,酢酸鉛,301-04-2,0.3%未満,0.1%未満,Lead acetate,"0.3%, no less than ","0.1%, no less than ",,,○,,0.3%,0.3%,0.1%,0.1%
+180,酢酸ビニル,108-05-4,1%未満,0.1%未満,Vinyl acetate,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+181,酢酸ブチル,下記,1%未満,1%未満,Butyl acetate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+181,酢酸ｎ－ブチル,123-86-4,1%未満,1%未満,n-Butyl acetate,"1%, no less than ","1%, no less than ",,○第2種,,,1%,1.0%,1%,1.0%
+181,酢酸イソブチル,110-19-0,1%未満,1%未満,Isobutyl acetate,"1%, no less than ","1%, no less than ",,○第2種,,,1%,1.0%,1%,1.0%
+181,酢酸tert－ブチル,540-88-5,1%未満,1%未満,tert-Butyl acetate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+181,酢酸sec－ブチル,105-46-4,1%未満,1%未満,sec-Butyl acetate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+182,酢酸プロピル,下記,1%未満,1%未満,Propyl acetate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+182,酢酸ｎ－プロピル,109-60-4,1%未満,1%未満,n-Propyl acetate,"1%, no less than ","1%, no less than ",,○第2種,,,1%,1.0%,1%,1.0%
+182,酢酸イソプロピル,108-21-4,1%未満,1%未満,Isopropyl acetate,"1%, no less than ","1%, no less than ",,○第2種,,,1%,1.0%,1%,1.0%
+183,酢酸ベンジル,140-11-4,1%未満,1%未満,Benzyl acetate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+184,酢酸ペンチル（別名酢酸アミル）,628-63-7他,1%未満,0.1%未満,Pentyl acetate (alias Amyl acetate),"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+184,酢酸ｎ－ペンチル（別名酢酸ｎ－アミル）,628-63-7,1%未満,0.1%未満,n-Pentyl acetate (alias n-Amyl acetate),"1%, no less than ","0.1%, no less than ",,○第2種,,,1%,1.0%,0.1%,0.1%
+184,酢酸イソペンチル（別名酢酸イソアミル）,123-92-2,1%未満,0.1%未満,Isopentyl acetate (alias Isoamyl acetate),"1%, no less than ","0.1%, no less than ",,○第2種,,,1%,1.0%,0.1%,0.1%
+185,酢酸メチル,79-20-9,1%未満,1%未満,Methyl acetate,"1%, no less than ","1%, no less than ",,○第2種,,,1%,1.0%,1%,1.0%
+186,サチライシン,9014-01-1,1%未満,0.1%未満,Subtilisins,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+187,三塩化りん,7719-12-2,1%未満,1%未満,Phosphorus trichloride,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+188,酸化亜鉛,1314-13-2,1%未満,0.1%未満,Zinc oxide,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+189,酸化アルミニウム,1344-28-1,1%未満,1%未満,Aluminum oxide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+190,酸化カルシウム,1305-78-8,1%未満,1%未満,Calcium oxide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+191,酸化チタン（Ⅳ）,13463-67-7,1%未満,0.1%未満,Titanium(IV) oxide,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+192,酸化鉄,1309-37-1,1%未満,1%未満,Iron oxide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+193,１，２―酸化ブチレン,106-88-7,1%未満,0.1%未満,"1,2-Butylene oxide; 1,2-Epoxybutane","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+194,酸化プロピレン,75-56-9,0.1%未満,0.1%未満,"Propylene oxide; 1,2-Epoxypropane","0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+195,酸化メシチル,141-79-7,1%未満,0.1%未満,Mesityl oxide; 4-Methyl-3-penten-2-one,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+196,三酸化二ほう素,1303-86-2,1%未満,1%未満,Boron trioxide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+197,三臭化ほう素,10294-33-4,1%未満,1%未満,Boron tribromide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+197-2,三弗化アルミニウム,7784-18-1,1%未満,0.1%未満,Aluminum trifluoride,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+198,三弗化塩素,7790-91-2,1%未満,1%未満,Chlorine trifluoride,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+199,三弗化ほう素,7637-07-2,1%未満,1%未満,Boron trifluoride,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+200,次亜塩素酸カルシウム,7778-54-3,1%未満,0.1%未満,Calcium hypochlorite,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+201,Ｎ，Ｎ′―ジアセチルベンジジン,613-35-4,1%未満,0.1%未満,"N,N'-Diacetylbenzidine","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+202,ジアセトンアルコール,123-42-2,1%未満,0.1%未満,Diacetone alcohol; 4-Hydroxy-4-methylpentan-2-one,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+203,ジアゾメタン,334-88-3,0.2%未満,0.1%未満,Diazomethane,"0.2%, no less than ","0.1%, no less than ",,,,,0.2%,0.2%,0.1%,0.1%
+204,シアナミド,420-04-2,1%未満,0.1%未満,Cyanamide,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+205,２―シアノアクリル酸エチル,7085-85-0,1%未満,0.1%未満,Ethyl 2-cyanoacrylate,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+206,２―シアノアクリル酸メチル,137-05-3,1%未満,0.1%未満,Methyl 2-cyanoacrylate,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+207,２，４―ジアミノアニソール,615-05-4,1%未満,0.1%未満,"2,4-Diaminoanisole","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+208,４，４′―ジアミノジフェニルエーテル,101-80-4,1%未満,0.1%未満,"4,4'-Diaminodiphenyl ether","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+209,４，４′―ジアミノジフェニルスルフィド,139-65-1,1%未満,0.1%未満,"4,4'-Diaminodiphenyl sulfide","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+210,４，４′―ジアミノ―３，３′―ジメチルジフェニルメタン,838-88-0,1%未満,0.1%未満,"4,4'-Diamino-3,3'-dimethyldiphenylmethane; 4,4'-Methylenebis(2-methylbenzenamine)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+211,２，４―ジアミノトルエン,95-80-7,1%未満,0.1%未満,"2,4-Diaminotoluene","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+212,四アルキル鉛,＊,－,0.1%未満,Tetraalkyllead,－,"0.1%, no less than ",,,○,,0,0.0%,0.1%,0.1%
+213,シアン化カリウム,151-50-8,1%未満,1%未満,Potassium cyanide,"1%, no less than ","1%, no less than ",○第2類,,,,1%,1.0%,1%,1.0%
+214,シアン化カルシウム,592-01-8,1%未満,1%未満,Calcium cyanide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+215,シアン化水素,74-90-8,1%未満,1%未満,Hydrogen cyanide,"1%, no less than ","1%, no less than ",○第2類,,,,1%,1.0%,1%,1.0%
+216,シアン化ナトリウム,143-33-9,1%未満,0.1%未満,Sodium cyanide,"1%, no less than ","0.1%, no less than ",○第2類,,,,1%,1.0%,0.1%,0.1%
+217,ジイソブチルケトン,108-83-8,1%未満,1%未満,Diisobutyl ketone,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+218,ジイソプロピルアミン,108-18-9,1%未満,1%未満,Diisopropylamine,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+219,ジエタノールアミン,111-42-2,1%未満,0.1%未満,"Diethanolamine; 2,2'-Iminodiethanol","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+220,２―（ジエチルアミノ）エタノール,100-37-8,1%未満,1%未満,2-(Diethylamino)ethanol,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+221,ジエチルアミン,109-89-7,1%未満,1%未満,Diethylamine,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+222,ジエチルケトン,96-22-0,1%未満,1%未満,Diethyl ketone,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+223,ジエチル―パラ―ニトロフェニルチオホスフェイト（別名パラチオン）,56-38-2,1%未満,0.1%未満,"Diethyl-p-nitrophenylthiophosphate; O,O-Diethyl O-4-nitrophenyl phosphorothioate (alias Parathion)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+224,１，２―ジエチルヒドラジン,1615-80-1,1%未満,0.1%未満,"1,2-Diethylhydrazine","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+224-2,Ｎ，Ｎ―ジエチルヒドロキシルアミン,3710-84-7,1%未満,1%未満,"N,N-Diethylhydroxylamine","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+224-3,ジエチレングリコールモノブチルエーテル,112-34-5,1%未満,1%未満,Diethylene glycol monobutyl ether,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+225,ジエチレントリアミン,111-40-0,0.3%未満,0.1%未満,"Diethylenetriamine; 2,2'-Iminodi(ethylamine)","0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+226,四塩化炭素,56-23-5,1%未満,0.1%未満,Carbon tetrachloride,"1%, no less than ","0.1%, no less than ",○第2類,,,,1%,1.0%,0.1%,0.1%
+227,１，４―ジオキサン,123-91-1,1%未満,0.1%未満,"1,4-Dioxane","1%, no less than ","0.1%, no less than ",○第2類,,,,1%,1.0%,0.1%,0.1%
+228,１，４―ジオキサン―２，３―ジイルジチオビス（チオホスホン酸）Ｏ，Ｏ，Ｏ′，Ｏ′―テトラエチル（別名ジオキサチオン）,78-34-2,1%未満,1%未満,"O, O, O' ,O'-Tetraethyl 1,4-dioxane-2,3-diyldithiobis (thiophosphonate); S,S'-1,4-Dioxane-2,3-diylbis(O,O-diethyl phosphorodithioate) (alias Dioxathion)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+229,１，３―ジオキソラン,646-06-0,1%未満,0.1%未満,"1,3-Dioxolane","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+230,シクロヘキサノール,108-93-0,1%未満,0.1%未満,Cyclohexanol,"1%, no less than ","0.1%, no less than ",,○第2種,,,1%,1.0%,0.1%,0.1%
+231,シクロヘキサノン,108-94-1,1%未満,0.1%未満,Cyclohexanone,"1%, no less than ","0.1%, no less than ",,○第2種,,,1%,1.0%,0.1%,0.1%
+232,シクロヘキサン,110-82-7,1%未満,1%未満,Cyclohexane,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+233,シクロヘキシルアミン,108-91-8,0.1%未満,0.1%未満,Cyclohexylamine,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+234,２―シクロヘキシルビフェニル,10470-01-6,1%未満,0.1%未満,2-Cyclohexylbiphenyl,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+235,シクロヘキセン,110-83-8,1%未満,1%未満,Cyclohexene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+236,シクロペンタジエニルトリカルボニルマンガン,12079-65-1,1%未満,1%未満,Cyclopentadienyltricarbonyl manganese; Tricarbonyl(η-cyclopentadienyl) manganese,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+237,シクロペンタジエン,542-92-7,1%未満,1%未満,Cyclopentadiene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+238,シクロペンタン,287-92-3,1%未満,1%未満,Cyclopentane,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+239,ジクロロアセチレン,7572-29-4,1%未満,1%未満,Dichloroacetylene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+240,ジクロロエタン,下記,1%未満,0.1%未満,Dichloroethane,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+240,１，１－ジクロロエタン,75-34-3,1%未満,0.1%未満,"1,1-Dichloroethane","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+240,１，２－ジクロロエタン,107-06-2,1%未満,0.1%未満,"1,2-Dichloroethane","1%, no less than ","0.1%, no less than ",○第2類,,,,1%,1.0%,0.1%,0.1%
+241,ジクロロエチレン,下記,1%未満,0.1%未満,Dichloroethylene; Dichloroethene,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+241,１，１－ジクロロエチレン,75-35-4,1%未満,0.1%未満,"1,1-Dichloroethylene; 1,1-Dichloroethene","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+241,１，２－ジクロロエチレン,540-59-0,1%未満,0.1%未満,"1,2-Dichloroethylene; 1,2-Dichloroethene","1%, no less than ","0.1%, no less than ",,○第1種,,,1%,1.0%,0.1%,0.1%
+241-2,ジクロロ酢酸,79-43-6,1%未満,0.1%未満,Dichloroacetic acid,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+242,３，３′―ジクロロ―４，４′―ジアミノジフェニルメタン,101-14-4,0.1%未満,0.1%未満,"3,3'-Dichloro-4,4'-diaminodiphenylmethane; 4,4'-Methylenebis(2-chloroaniline)","0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+243,ジクロロジフルオロメタン（別名ＣＦＣ―１２）,75-71-8,1%未満,1%未満,Dichlorodifluoromethane (alias CFC-12),"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+244,１，３―ジクロロ―５，５―ジメチルイミダゾリジン―２，４―ジオン,118-52-5,1%未満,1%未満,"1,3-Dichloro-5,5-dimethylimidazolidine-2,4-dione","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+245,３，５―ジクロロ―２，６―ジメチル―４―ピリジノール（別名クロピドール）,2971-90-6,1%未満,1%未満,"3,5-Dichloro-2,6-dimethyl-4-pyridinol (alias Clopidol)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+246,ジクロロテトラフルオロエタン（別名ＣＦＣ―１１４）,76-14-2,1%未満,1%未満,Dichlorotetrafluoroethane (alias CFC-114),"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+247,２，２―ジクロロ―１，１，１―トリフルオロエタン（別名ＨＣＦＣ―１２３）,306-83-2,1%未満,1%未満,"2,2-Dichloro-1,1,1-trifluoroethane (alias HCFC-123)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+248,１，１―ジクロロ―１―ニトロエタン,594-72-9,1%未満,1%未満,"1,1-Dichloro-1-nitroethane","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+249,３―（３，４―ジクロロフェニル）―１，１―ジメチル尿素（別名ジウロン）,330-54-1,1%未満,1%未満,"3-(3,4-Dichlorophenyl)-1,1-dimethylurea (alias Diuron)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+250,２，４―ジクロロフェノキシエチル硫酸ナトリウム,136-78-7,1%未満,1%未満,"Sodium 2,4-dichlorophenoxyethyl sulfate","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+251,２，４―ジクロロフェノキシ酢酸,94-75-7,1%未満,0.1%未満,"(2,4-Dichlorophenoxy)acetic acid","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+252,１，４―ジクロロ―２―ブテン,764-41-0,0.1%未満,0.1%未満,"1,4-Dichloro-2-butene","0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+253,ジクロロフルオロメタン（別名ＨＣＦＣ―２１）,75-43-4,1%未満,0.1%未満,Dichlorofluoromethane (alias HCFC-21),"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+254,１，２―ジクロロプロパン,78-87-5,0.1%未満,0.1%未満,"1,2-Dichloropropane","0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+255,２，２―ジクロロプロピオン酸,75-99-0,1%未満,1%未満,"2,2-Dichloropropionic acid","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+256,１，３―ジクロロプロペン,542-75-6,1%未満,0.1%未満,"1,3-Dichloropropene","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+257,ジクロロメタン（別名二塩化メチレン）,75-09-2,1%未満,0.1%未満,Dichloromethane (alias Methylenedichloride),"1%, no less than ","0.1%, no less than ",○第2類,,,,1%,1.0%,0.1%,0.1%
+258,四酸化オスミウム,20816-12-0,1%未満,1%未満,Osmium tetraoxide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+259,ジシアン,460-19-5,1%未満,1%未満,Dicyan,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+260,ジシクロペンタジエニル鉄,102-54-5,1%未満,1%未満,Dicyclopentadienyl iron; Bis(η-cyclopentadienyl)iron,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+261,ジシクロペンタジエン,77-73-6,1%未満,1%未満,"Dicyclopentadiene; 3a,4,7,7a-Tetrahydro-4,7-methanoindene","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+262,２，６―ジ―ターシャリ―ブチル―４―クレゾール,128-37-0,1%未満,0.1%未満,"2,6-Di-tert-butyl-4-cresol; 2,6-Di-tert-butyl-4-methylphenol","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+263,１，３―ジチオラン―２―イリデンマロン酸ジイソプロピル（別名イソプロチオラン）,50512-35-1,1%未満,1%未満,"Diisopropyl 1,3-dithiolan-2-ylidenemalonate (alias Isoprothiolane)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+264,ジチオりん酸Ｏ―エチル―Ｏ―（４―メチルチオフェニル）―Ｓ―ノルマル―プロピル（別名スルプロホス）,35400-43-2,1%未満,1%未満,O-Ethyl O-4-methylthiopenyl S-propyl phosphorodithioate (alias Sulprofos),"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+265,ジチオりん酸Ｏ，Ｏ―ジエチル―Ｓ―（２―エチルチオエチル）（別名ジスルホトン）,298-04-4,1%未満,0.1%未満,"O,O-Diethyl S-(2-ethylthioethyl) phosphorodithioate (alias Disulfoton)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+266,ジチオりん酸Ｏ，Ｏ―ジエチル―Ｓ―エチルチオメチル（別名ホレート）,298-02-2,1%未満,0.1%未満,"O,O-Diethyl S-ethylthiomethyl phosphorodithioate (alias Phorate)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+266-2,ジチオりん酸Ｏ，Ｏ―ジエチル―Ｓ―（ターシャリ―ブチルチオメチル）(別名テルブホス）,13071-79-9,1%未満,0.1%未満,"S-tert-butylthiomethyl O,O-diethylphosphorodithioate","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+267,ジチオりん酸Ｏ，Ｏ―ジメチル―Ｓ―［（４―オキソ―１，２，３―ベンゾトリアジン―３（４Ｈ）―イル）メチル］（別名アジンホスメチル）,86-50-0,1%未満,0.1%未満,"O,O-Dimethyl S-[(4-oxo-1,2,3-benzotriazine-3(4H)-yl)methyl] phosphorodithioate; S-(3,4-Dihydroxy-4-oxobenzo[d][1,2,3]triazin-3-ylmethyl) O,O-dimethyl phosphorodithioate (alias Azinphosmethyl)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+268,ジチオりん酸Ｏ，Ｏ―ジメチル―Ｓ―１，２―ビス（エトキシカルボニル）エチル（別名マラチオン）,121-75-5,1%未満,0.1%未満,"O,O-Dimethyl S-1,2-bis(ethoxycarbonyl)ethyl phosphorodithioate; Diethyl[(dimethoxyphosphinothioyl)thio]butanedioate (alias Malathion)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+269,ジナトリウム＝４―［（２，４―ジメチルフェニル）アゾ］―３―ヒドロキシ―２，７―ナフタレンジスルホナート（別名ポンソーＭＸ）,3761-53-3,1%未満,0.1%未満,"Disodium 4-[(2,4-dimethylphenyl)azo]-3-hydroxy-2,7-naphthalenedisulfonate (alias Ponceau MX)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+270,ジナトリウム＝８―［［３，３′―ジメチル―４′―［［４―［［（４―メチルフェニル）スルホニル］オキシ］フェニル］アゾ］［１，１′―ビフェニル］―４―イル］アゾ］―７―ヒドロキシ―１，３―ナフタレンジスルホナート（別名ＣＩアシッドレッド１１４）,6459-94-5,1%未満,0.1%未満,"Disodium 8-[[3,3'-dimethyl-4'-[[4-[[(4-methylphenyl)sulfonyl]oxy] phenyl] azo][1,1'-biphenyl]-4-yl]azo]-7-hydroxy-1,3-naphthalene disulfonate (alias CI acid red 114)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+271,ジナトリウム＝３―ヒドロキシ―４―［（２，４，５―トリメチルフェニル）アゾ］―２，７―ナフタレンジスルホナート（別名ポンソー３Ｒ）,3564-09-8,1%未満,0.1%未満,"Disodium 3-hydroxy-4-[(2,4,5-trimethylphenyl)azo]-2,7-naphthalenedisulfonate (alias Ponceau 3R)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+272,２，４―ジニトロトルエン,121-14-2,1%未満,0.1%未満,"2,4-Dinitrotoluene","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+273,ジニトロベンゼン,25154-54-5,1%未満,0.1%未満,Dinitrobenzene,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+274,２―（ジ―ノルマル―ブチルアミノ）エタノール,102-81-8,1%未満,1%未満,2-(Di-n-butylamino) ethanol,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+275,ジ―ノルマル―プロピルケトン,123-19-3,1%未満,1%未満,Di-n-propyl ketone,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+276,ジビニルベンゼン,1321-74-0,1%未満,0.1%未満,Divinylbenzene,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+277,ジフェニルアミン,122-39-4,1%未満,0.1%未満,Diphenylamine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+278,ジフェニルエーテル,101-84-8,1%未満,1%未満,Diphenyl ether,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+279,１，２―ジブロモエタン（別名ＥＤＢ）,106-93-4,0.1%未満,0.1%未満,"1,2-Dibromoethane (alias EDB)","0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+280,１，２―ジブロモ―３―クロロプロパン,96-12-8,0.1%未満,0.1%未満,"1,2-Dibromo-3-chloropropane","0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+281,ジブロモジフルオロメタン,75-61-6,1%未満,1%未満,Dibromodifluoromethane,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+282,ジベンゾイルペルオキシド,94-36-0,1%未満,0.1%未満,Dibenzoyl peroxide,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+283,ジボラン,19287-45-7,1%未満,1%未満,Diborane,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+284,Ｎ，Ｎ―ジメチルアセトアミド,127-19-5,1%未満,0.1%未満,"N,N-Dimethylacetamide","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+285,Ｎ，Ｎ―ジメチルアニリン,121-69-7,1%未満,1%未満,"N,N-Dimethylaniline","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+286,［４―［［４―（ジメチルアミノ）フェニル］［４―［エチル（３―スルホベンジル）アミノ］フェニル］メチリデン］シクロヘキサン―２，５―ジエン―１―イリデン］（エチル）（３―スルホナトベンジル）アンモニウムナトリウム塩（別名ベンジルバイオレット４Ｂ）,1694-09-3,1%未満,0.1%未満,"[4-[[4-(Dimethylamino)phenyl][4-[ethyl(3-sulfobenzyl)amino]phenyl] methylidene]cyclohexane-2,5-dien-1-ylidene](ethyl)(3-sulfonatobenzyl) ammonium sodium salt (alias Benzyl violet 4B)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+287,ジメチルアミン,124-40-3,1%未満,0.1%未満,Dimethylamine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+288,ジメチルエチルメルカプトエチルチオホスフェイト（別名メチルジメトン）,8022-00-2,1%未満,0.1%未満,"Dimethyl ethylmercaptoethyl thiophosphate; S(and O)-2-Ethylthioethyl O,O-dimethyl phosphorothioate (alias Methyl demeton)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+289,ジメチルエトキシシラン,14857-34-2,1%未満,0.1%未満,Dimethylethoxysilane,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+290,ジメチルカルバモイル＝クロリド,79-44-7,0.1%未満,0.1%未満,Dimethylcarbamoyl chloride,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+291,ジメチル―２，２―ジクロロビニルホスフェイト（別名ＤＤＶＰ）,62-73-7,1%未満,0.1%未満,"Dimethyl 2,2-dichlorovinyl phosphate; 2,2-Dichloroethenyl dimethyl phosphate (alias DDVP)","1%, no less than ","0.1%, no less than ",○第2類,,,,1%,1.0%,0.1%,0.1%
+292,ジメチルジスルフィド,624-92-0,1%未満,0.1%未満,Dimethyl disulfide,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+292-2,ジメチル＝２，２，２―トリクロロ―１―ヒドロキシエチルホスホナート（別名DEP）,52-68-6,1%未満,0.1%未満,"Dimethyl (2,2,2-trichloro-1-hydroxyethyl)phosphonate (alias DEP)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+293,Ｎ，Ｎ―ジメチルニトロソアミン,62-75-9,0.1%未満,0.1%未満,"N,N-Dimethylnitrosoamine","0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+294,ジメチル―パラ―ニトロフェニルチオホスフェイト（別名メチルパラチオン）,298-00-0,1%未満,0.1%未満,"Dimethyl-p-nitrophenylphosphorothioate; O,O-Dimethyl O-4-nitrophenyl phosphorothioate (alias Methyl parathion)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+295,ジメチルヒドラジン,下記,0.1%未満,0.1%未満,Dimethylhydrazine,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+295,１，１－ジメチルヒドラジン,57-14-7,0.1%未満,0.1%未満,"1,1-Dimethylhydrazine","0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+295,１，２－ジメチルヒドラジン,540-73-8,0.1%未満,0.1%未満,"1,2-Dimethylhydrazine","0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+296,１，１′―ジメチル―４，４′―ビピリジニウム＝ジクロリド（別名パラコート）,1910-42-5,1%未満,1%未満,"1,1'-Dimethyl-4,4'-bipyridinium dichloride (alias Paraquat)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+297,１，１′―ジメチル―４，４′―ビピリジニウム２メタンスルホン酸塩,2074-50-2,1%未満,1%未満,"1,1'-Dimethyl-4,4'-bipyridinium bis(methyl sulfate)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+298,２―（４，６―ジメチル―２―ピリミジニルアミノカルボニルアミノスルフォニル）安息香酸メチル（別名スルホメチュロンメチル）,74222-97-2,1%未満,0.1%未満,"Methyl 2-(4,6-dimethyl-2-pyrimidinylaminocarbonylaminosulfonyl) benzoate (alias Sulfometuron methyl)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+299,Ｎ，Ｎ―ジメチルホルムアミド,68-12-2,0.3%未満,0.1%未満,"N,N-Dimethylformamide","0.3%, no less than ","0.1%, no less than ",,○第2種,,,0.3%,0.3%,0.1%,0.1%
+300,１―［（２，５―ジメトキシフェニル）アゾ］―２―ナフトール（別名シトラスレッドナンバー２）,6358-53-8,1%未満,0.1%未満,"1-[(2,5-Dimethoxyphenyl)azo]-2-naphthol (alias Citrus red No.2)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+301,臭化エチル,74-96-4,1%未満,0.1%未満,Ethyl bromide,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+302,臭化水素,10035-10-6,1%未満,1%未満,Hydrogen bromide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+303,臭化メチル,74-83-9,1%未満,0.1%未満,Methyl bromide,"1%, no less than ","0.1%, no less than ",○第2類,,,,1%,1.0%,0.1%,0.1%
+304,しゆう酸,144-62-7,1%未満,0.1%未満,Oxalic acid,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+305,臭素,7726-95-6,1%未満,1%未満,Bromine,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+306,臭素化ビフェニル,＊,1%未満,0.1%未満,Brominated biphenyl,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+307,硝酸,7697-37-2,1%未満,1%未満,Nitric acid,"1%, no less than ","1%, no less than ",○第3類,,,,1%,1.0%,1%,1.0%
+308,硝酸アンモニウム,6484-52-2,－,－,Ammonium nitrate,－,－,,,,,0,0.0%,0,0.0%
+309,硝酸ノルマル―プロピル,627-13-4,1%未満,1%未満,n-Propyl nitrate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+310,しよう脳,76-22-2,1%未満,1%未満,Camphor,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+311,シラン,7803-62-5,1%未満,1%未満,Silane,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+313,ジルコニウム化合物,＊,1%未満,1%未満,Zirconium and its compounds,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+314,人造鉱物繊維（リフラクトリーセラミックファイバーを除く。）,＊,1%未満,1%未満,Man-made mineral fiber (excluding Refractory ceramic fibres),"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+314,リフラクトリーセラミックファイバー,142844-00-6,1%未満,0.1%未満,Refractory ceramic fibres,"1%, no less than ","0.1%, no less than ",○第2類,,,,1%,1.0%,0.1%,0.1%
+315,水銀及びその無機化合物,＊,0.3%未満,0.1%未満,Mercury and its inorganic compounds,"0.3%, no less than ","0.1%, no less than ","○第2類
+※硫化水銀を除く",,,,0.3%,0.3%,0.1%,0.1%
+316,水酸化カリウム,1310-58-3,1%未満,1%未満,Potassium hydroxide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+317,水酸化カルシウム,1305-62-0,1%未満,1%未満,Calcium hydroxide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+318,水酸化セシウム,21351-79-1,1%未満,1%未満,Cesium hydroxide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+319,水酸化ナトリウム,1310-73-2,1%未満,1%未満,Sodium hydroxide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+320,水酸化リチウム,1310-65-2,0.3%未満,0.1%未満,Lithium hydroxide,"0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+320-2,水素化ビス（２―メトキシエトキシ）アルミニウムナトリウム,22722-98-1,1%未満,1%未満,Sodium dihydridobis(2-methoxyethanolato)aluminate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+321,水素化リチウム,7580-67-8,0.3%未満,0.1%未満,Lithium hydride,"0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+322,すず及びその化合物,＊,1%未満,0.1%未満,Tin and its compounds,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+323,スチレン,100-42-5,0.3%未満,0.1%未満,Styrene,"0.3%, no less than ","0.1%, no less than ",○第2類,,,,0.3%,0.3%,0.1%,0.1%
+324,ステアリン酸亜鉛,557-05-1,1%未満,1%未満,Zinc stearate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+325,ステアリン酸ナトリウム,822-16-2,1%未満,1%未満,Sodium stearate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+326,ステアリン酸鉛,1072-35-1,0.1%未満,0.1%未満,Lead stearate,"0.1%, no less than ","0.1%, no less than ",,,○,,0.1%,0.1%,0.1%,0.1%
+327,ステアリン酸マグネシウム,557-04-0,1%未満,1%未満,Magnesium stearate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+328,ストリキニーネ,57-24-9,1%未満,1%未満,Strychnine,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+329,石油エーテル,＊,1%未満,1%未満,Petroleum ether,"1%, no less than ","1%, no less than ",,○第3種,,,1%,1.0%,1%,1.0%
+330,石油ナフサ,＊,1%未満,1%未満,Petroleum naphtha,"1%, no less than ","1%, no less than ",,○第3種,,,1%,1.0%,1%,1.0%
+331,石油ベンジン,＊,1%未満,1%未満,Petroleum benzine,"1%, no less than ","1%, no less than ",,○第3種,,,1%,1.0%,1%,1.0%
+332,セスキ炭酸ナトリウム,533-96-0,1%未満,1%未満,Sodium sesquicarbonate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+333,セレン及びその化合物,＊,1%未満,0.1%未満,Selenium and its compounds,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+334,２―ターシャリ―ブチルイミノ―３―イソプロピル―５―フェニルテトラヒドロ―４Ｈ―１，３，５―チアジアジン―４―オン（別名ブプロフェジン）,69327-76-0,1%未満,1%未満,"2-tert-Butylimino-3-isopropyl-5-phenyltetrahydro-4H-1,3,5-thiadiazin-4-one (alias Buprofezin)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+335,タリウム及びその水溶性化合物,＊,0.1%未満,0.1%未満,Thallium and its water-soluble compounds,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+336,炭化けい素,409-21-2,0.1%未満,0.1%未満,Silicon carbide,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+337,タングステン及びその水溶性化合物,＊,1%未満,1%未満,Tungsten and its water-soluble compounds,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+338,タンタル及びその酸化物,＊,1%未満,1%未満,Tantalum and its oxide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+339,チオジ（パラ―フェニレン）―ジオキシ―ビス（チオホスホン酸）Ｏ，Ｏ，Ｏ′，Ｏ′―テトラメチル（別名テメホス）,3383-96-8,1%未満,1%未満,"O,O,O',O'-Tetramethyl thiodi(p-phenylene)-dioxy-bis(phosphorothioate) (alias Temephos)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+340,チオ尿素,62-56-6,1%未満,0.1%未満,Thiourea,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+341,４，４′―チオビス（６―ターシャリ―ブチル―３―メチルフェノール）,96-69-5,1%未満,1%未満,"4,4'-Thiobis(6-tert-butyl-3-methylphenol)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+342,チオフェノール,108-98-5,1%未満,0.1%未満,Thiophenol,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+343,チオりん酸Ｏ，Ｏ―ジエチル―Ｏ―（２―イソプロピル―６―メチル―４―ピリミジニル）（別名ダイアジノン）,333-41-5,1%未満,0.1%未満,"O,O-Diethyl O-(2-isopropyl-6-methyl-4-pyrimidinyl) phosphorothioate (alias Diazinon)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+344,チオりん酸Ｏ，Ｏ―ジエチル―エチルチオエチル（別名ジメトン）,8065-48-3,1%未満,0.1%未満,"O,O-Diethyl ethylthioethyl phosphorothioate (alias Demeton)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+345,チオりん酸Ｏ，Ｏ―ジエチル―Ｏ―（６―オキソ―１―フェニル―１，６―ジヒドロ―３―ピリダジニル）（別名ピリダフェンチオン）,119-12-0,1%未満,1%未満,"O,O-Diethyl O-(6-oxo-1-phenyl-1,6-dihydro-3-pyridazinyl) phosphorothioate (alias Pyridaphenthion)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+346,チオりん酸Ｏ，Ｏ―ジエチル―Ｏ―（３，５，６―トリクロロ―２―ピリジル）（別名クロルピリホス）,2921-88-2,1%未満,1%未満,"O,O-Diethyl O-(3,5,6-trichloro-2-pyridyl) phosphorothioate (alias Chlorpyrifos)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+347,チオりん酸Ｏ，Ｏ―ジエチル―Ｏ―［４―（メチルスルフィニル）フェニル］（別名フェンスルホチオン）,115-90-2,1%未満,1%未満,"O,O-Diethyl O-[4-(methylsulfinyl)phenyl] phosphorothioate (alias Fensulfothion)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+348,チオりん酸Ｏ，Ｏ―ジメチル―Ｏ―（２，４，５―トリクロロフェニル）（別名ロンネル）,299-84-3,1%未満,0.1%未満,"O,O-Dimethyl O-(2,4,5-trichlorophenyl) phosphorothioate (alias Ronnel)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+349,チオりん酸Ｏ，Ｏ―ジメチル―Ｏ―（３―メチル―４―ニトロフェニル）（別名フェニトロチオン）,122-14-5,1%未満,1%未満,"O,O-Dimethyl O-(3-methyl-4-nitrophenyl) phosphorothioate (alias Fenitrothion)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+350,チオりん酸Ｏ，Ｏ―ジメチル―Ｏ―（３―メチル―４―メチルチオフェニル）（別名フェンチオン）,55-38-9,1%未満,0.1%未満,"O,O-Dimethyl O-(3-methyl-4-methylthiophenyl) phosphorothioate (alias Fenthion)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+351,デカボラン,17702-41-9,1%未満,1%未満,Decaborane,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+352,鉄水溶性塩,＊,1%未満,1%未満,Water-soluble iron salts,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+353,１，４，７，８―テトラアミノアントラキノン（別名ジスパースブルー１）,2475-45-8,1%未満,0.1%未満,"1,4,7,8-Tetraaminoanthraquinone (alias Disperse Blue 1)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+354,テトラエチルチウラムジスルフィド（別名ジスルフィラム）,97-77-8,1%未満,0.1%未満,Tetraethylthiuram disulfide (alias Disulfiram),"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+355,テトラエチルピロホスフェイト（別名ＴＥＰＰ）,107-49-3,1%未満,1%未満,Tetraethyl diphosphate (alias TEPP),"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+356,テトラエトキシシラン,78-10-4,1%未満,1%未満,Tetraethoxysilane,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+357,１，１，２，２―テトラクロロエタン（別名四塩化アセチレン）,79-34-5,1%未満,0.1%未満,"1,1,2,2-Tetrachloroethane (alias Tetrachloroacetylene)","1%, no less than ","0.1%, no less than ",○第2類,,,,1%,1.0%,0.1%,0.1%
+358,Ｎ―（１，１，２，２―テトラクロロエチルチオ）―１，２，３，６―テトラヒドロフタルイミド（別名キャプタフォル）,2425-06-1,0.1%未満,0.1%未満,"N-(1,1,2,2-Tetrachloroethylthio)-1,2,3,6-tetrahydrophthalimide; N-(1,1,2,2-Tetrachloroethylthio)-3a,4,7,7a-tetrahydrophthalimide (alias Captafol)","0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+359,テトラクロロエチレン（別名パークロルエチレン）,127-18-4,0.1%未満,0.1%未満,Tetrachloroethylene (alias Perchloroethylene),"0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+360,４，５，６，７―テトラクロロ―１，３―ジヒドロベンゾ［ｃ］フラン―２―オン（別名フサライド）,27355-22-2,1%未満,1%未満,"4,5,6,7-Tetrachloro-1,3-dihydrobenzo[c]furan-2-one; 4,5,6,7-Tetrachloro-(3H)-benzo[c]furan-2-one (alias Fthalide)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+361,テトラクロロジフルオロエタン（別名ＣＦＣ―１１２）,76-12-0,1%未満,1%未満,Tetrachlorodifluoroethane (alias CFC-112),"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+362,２，３，７，８―テトラクロロジベンゾ―１，４―ジオキシン,1746-01-6,0.1%未満,0.1%未満,"2,3,7,8-Tetrachlorodibenzo[b,e][1,4]dioxin","0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+363,テトラクロロナフタレン,1335-88-2,1%未満,1%未満,Tetrachloronaphthalene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+364,テトラナトリウム＝３，３′―［（３，３′―ジメチル―４，４′―ビフェニリレン）ビス（アゾ）］ビス［５―アミノ―４―ヒドロキシ―２，７―ナフタレンジスルホナート］（別名トリパンブルー）,72-57-1,1%未満,0.1%未満,"Tetrasodium 3,3'-[(3,3'-dimethyl-4,4'-biphenylylene)bis(azo)]bis[5-amino-4-hydroxy-2,7-naphthalenedisulfonate] (alias Trypan blue)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+365,テトラナトリウム＝３，３′―［（３，３′―ジメトキシ―４，４′―ビフェニリレン）ビス（アゾ）］ビス［５―アミノ―４―ヒドロキシ―２，７―ナフタレンジスルホナート］（別名ＣＩダイレクトブルー１５）,2429-74-5,1%未満,0.1%未満,"Tetrasodium 3,3'-[(3,3'-dimethoxy-4,4'-biphenylylene)bis(azo)]bis[5-amino-4-hydroxy-2,7-naphthalenedisulfonate] (alias CI direct blue 15)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+366,テトラニトロメタン,509-14-8,1%未満,0.1%未満,Tetranitromethane,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+367,テトラヒドロフラン,109-99-9,1%未満,0.1%未満,Tetrahydrofuran,"1%, no less than ","0.1%, no less than ",,○第2種,,,1%,1.0%,0.1%,0.1%
+367-2,テトラヒドロメチル無水フタル酸,11070-44-3,1%未満,0.1%未満,Tetrahydromethylphthalic anhydride,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+368,テトラフルオロエチレン,116-14-3,1%未満,0.1%未満,Tetrafluoroethylene,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+369,１，１，２，２―テトラブロモエタン,79-27-6,1%未満,1%未満,"1,1,2,2-Tetrabromoethane","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+370,テトラブロモメタン,558-13-4,1%未満,1%未満,Tetrabromomethane,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+371,テトラメチルこはく酸ニトリル,3333-52-6,1%未満,1%未満,Tetramethylsuccinic acid dinitrile,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+372,テトラメチルチウラムジスルフィド（別名チウラム）,137-26-8,0.1%未満,0.1%未満,Tetramethylthiuram disulfide (alias Thiuram),"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+373,テトラメトキシシラン,681-84-5,1%未満,1%未満,Tetramethoxysilane,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+374,テトリル,479-45-8,1%未満,0.1%未満,Tetryl,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+375,テルフェニル,26140-60-3,1%未満,1%未満,Terphenyl,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+376,テルル及びその化合物,＊,1%未満,0.1%未満,Tellurium and its compounds,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+377,テレビン油,8006-64-2,1%未満,0.1%未満,Turpentine oil,"1%, no less than ","0.1%, no less than ",,○第3種,,,1%,1.0%,0.1%,0.1%
+378,テレフタル酸,100-21-0,1%未満,1%未満,Terephthalic acid,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+379,銅及びその化合物,＊,1%未満,0.1%未満,Copper and its compounds,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+380,灯油,8008-20-6,1%未満,0.1%未満,Kerosene,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+381,トリエタノールアミン,102-71-6,1%未満,0.1%未満,Triethanolamine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+382,トリエチルアミン,121-44-8,1%未満,1%未満,Triethylamine,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+383,トリクロロエタン,下記,1%未満,0.1%未満,Trichloroethane,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+383,１，１，１－トリクロロエタン,71-55-6,1%未満,0.1%未満,"1,1,1-Trichloroethane","1%, no less than ","0.1%, no less than ",,○第2種,,,1%,1.0%,0.1%,0.1%
+383,１，１，２－トリクロロエタン,79-00-5,1%未満,0.1%未満,"1,1,2-Trichloroethane","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+384,トリクロロエチレン,79-01-6,0.1%未満,0.1%未満,Trichloroethylene,"0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+385,トリクロロ酢酸,76-03-9,1%未満,0.1%未満,Trichloroacetic acid,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+386,１，１，２―トリクロロ―１，２，２―トリフルオロエタン,76-13-1,1%未満,1%未満,"1,1,2-Trichloro-1,2,2-trifluoroethane; CFC-113","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+387,トリクロロナフタレン,1321-65-9,1%未満,1%未満,Trichloronaphthalene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+388,１，１，１―トリクロロ―２，２―ビス（４―クロロフェニル）エタン（別名ＤＤＴ）,50-29-3,0.1%未満,0.1%未満,"1,1,1-Trichloro-2,2-bis(4-chlorophenyl)ethane (alias DDT)","0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+389,１，１，１―トリクロロ―２，２―ビス（４―メトキシフェニル）エタン（別名メトキシクロル）,72-43-5,1%未満,0.1%未満,"1,1,1-Trichloro-2,2-bis(4-methoxyphenyl)ethane (alias Methoxychlor)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+390,２，４，５―トリクロロフェノキシ酢酸,93-76-5,0.3%未満,0.1%未満,"2,4,5-Trichlorophenoxyacetic acid","0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+391,トリクロロフルオロメタン（別名ＣＦＣ―１１）,75-69-4,1%未満,0.1%未満,Trichlorofluoromethane (alias CFC-11),"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+392,１，２，３―トリクロロプロパン,96-18-4,0.1%未満,0.1%未満,"1,2,3-Trichloropropane","0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+393,１，２，４―トリクロロベンゼン,120-82-1,1%未満,1%未満,"1,2,4-Trichlorobenzene","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+394,トリクロロメチルスルフェニル＝クロリド,594-42-3,1%未満,1%未満,Trichloromethylsulfenyl chloride,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+395,Ｎ―（トリクロロメチルチオ）―１，２，３，６―テトラヒドロフタルイミド（別名キャプタン）,133-06-2,1%未満,0.1%未満,"N-(Trichloromethylthio)-1,2,3,6-tetrahydrophthalimide; N-(Trichloromethylthio)-3a,4,7,7a-tetrahydrophthalimide (alias Captan)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+396,トリシクロヘキシルすず＝ヒドロキシド,13121-70-5,1%未満,1%未満,Tricyclohexyltin hydroxide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+397,１，３，５―トリス（２，３―エポキシプロピル）―１，３，５―トリアジン―２，４，６（１Ｈ，３Ｈ，５Ｈ）―トリオン,2451-62-9,0.1%未満,0.1%未満,"1,3,5-Tris(2,3-epoxypropyl)-1,3,5-triazine-2,4,6(1H,3H,5H)-trione","0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+398,トリス（Ｎ，Ｎ―ジメチルジチオカルバメート）鉄（別名ファーバム）,14484-64-1,1%未満,0.1%未満,"Tris(N,N-dimethyldithiocarbamate)iron (alias Ferbam)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+399,トリニトロトルエン,118-96-7,1%未満,0.1%未満,Trinitrotoluene,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+400,トリフェニルアミン,603-34-9,1%未満,1%未満,Triphenylamine,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+401,トリブロモメタン,75-25-2,1%未満,0.1%未満,Tribromomethane,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+402,２―トリメチルアセチル―１，３―インダンジオン,83-26-1,1%未満,1%未満,"2-Trimethylacetyl-1,3-indandione","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+403,トリメチルアミン,75-50-3,1%未満,1%未満,Trimethylamine,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+404,トリメチルベンゼン,25551-13-7,1%未満,1%未満,Trimethylbenzene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+405,トリレンジイソシアネート,26471-62-5他,1%未満,0.1%未満,Tolylene diisocyanate,"1%, no less than ","0.1%, no less than ",○第2類,,,,1%,1.0%,0.1%,0.1%
+406,トルイジン,26915-12-8,0.1%未満,0.1%未満,Toluidine,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+406,ｏ－トルイジン,95-53-4,0.1%未満,0.1%未満,o-Toluidine,"0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+406,ｍ－トルイジン,108-44-1,0.1%未満,0.1%未満,m-Toluidine,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+406,ｐ－トルイジン,106-49-0,0.1%未満,0.1%未満,p-Toluidine,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+407,トルエン,108-88-3,0.3%未満,0.1%未満,Toluene,"0.3%, no less than ","0.1%, no less than ",,○第2種,,,0.3%,0.3%,0.1%,0.1%
+408,ナフタレン,91-20-3,1%未満,0.1%未満,Naphthalene,"1%, no less than ","0.1%, no less than ",○第2類,,,,1%,1.0%,0.1%,0.1%
+409,１―ナフチルチオ尿素,86-88-4,1%未満,1%未満,1-Naphthylthiourea,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+410,１―ナフチル―Ｎ―メチルカルバメート（別名カルバリル）,63-25-2,1%未満,1%未満,1-Naphthyl-N-methylcarbamate (alias Carbaryl),"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+411,鉛及びその無機化合物,＊,0.1%未満,0.1%未満,Lead and its inorganic compounds,"0.1%, no less than ","0.1%, no less than ",,,○※鉛化合物は厚生労働大臣指定の物に限る。,,0.1%,0.1%,0.1%,0.1%
+412,二亜硫酸ナトリウム,7681-57-4,1%未満,1%未満,Sodium disulfite,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+413,ニコチン,54-11-5,1%未満,0.1%未満,Nicotine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+414,二酸化硫黄,7446-09-5,1%未満,1%未満,Sulfur dioxide,"1%, no less than ","1%, no less than ",○第3類,,,,1%,1.0%,1%,1.0%
+415,二酸化塩素,10049-04-4,1%未満,1%未満,Chlorine dioxide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+416,二酸化窒素,10102-44-0,1%未満,0.1%未満,Nitrogen dioxide,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+417,二硝酸プロピレン,6423-43-4,1%未満,1%未満,Propylene glycol dinitrate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+418,ニッケル,7440-02-0,1%未満,0.1%未満,Nickel,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+418,ニッケル化合物,＊,0.1%未満,0.1%未満,Nickel compounds,"0.1%, no less than ","0.1%, no less than ","○第2類
+※粉状の物に限る",,,,0.1%,0.1%,0.1%,0.1%
+418,ニッケルカルボニル,13463-39-3,0.1%未満,0.1%未満,Nickel carbonyl,"0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+419,ニトリロ三酢酸,139-13-9,1%未満,0.1%未満,Nitrilotriacetic acid,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+420,５―ニトロアセナフテン,602-87-9,1%未満,0.1%未満,5-Nitroacenaphthene,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+421,ニトロエタン,79-24-3,1%未満,1%未満,Nitroethane,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+422,ニトログリコール,628-96-6,1%未満,1%未満,Nitroglycol,"1%, no less than ","1%, no less than ",○第2類,,,,1%,1.0%,1%,1.0%
+423,ニトログリセリン,55-63-0,－,－,Nitroglycerin （※）,－,－,,,,,0,0.0%,0,0.0%
+424,ニトロセルローズ,9004-70-0,－,－,Nitrocellulose,－,－,,,,,0,0.0%,0,0.0%
+425,Ｎ―ニトロソモルホリン,59-89-2,1%未満,0.1%未満,N-Nitrosomorpholine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+426,ニトロトルエン,1321-12-6,0.1%未満,0.1%未満,Nitrotoluene,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+426,ｏ－ニトロトルエン,88-72-2,0.1%未満,0.1%未満,o-Nitrotoluene,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+426,ｍ－ニトロトルエン,99-08-1,0.1%未満,0.1%未満,m-Nitrotoluene,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+426,ｐ－ニトロトルエン,99-99-0,0.1%未満,0.1%未満,p-Nitrotoluene,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+427,ニトロプロパン,下記,1%未満,0.1%未満,Nitropropane,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+427,１－ニトロプロパン,108-03-2,1%未満,0.1%未満,1-Nitropropane,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+427,２－ニトロプロパン,79-46-9,1%未満,0.1%未満,2-Nitropropane,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+428,ニトロベンゼン,98-95-3,1%未満,0.1%未満,Nitrobenzene,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+429,ニトロメタン,75-52-5,1%未満,0.1%未満,Nitromethane,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+430,乳酸ノルマル―ブチル,138-22-7,1%未満,1%未満,n-Butyl lactate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+431,二硫化炭素,75-15-0,0.3%未満,0.1%未満,Carbon disulfide,"0.3%, no less than ","0.1%, no less than ",,○第1種,,,0.3%,0.3%,0.1%,0.1%
+432,ノナン,111-84-2他,1%未満,1%未満,Nonane,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+433,ノルマル―ブチルアミン,109-73-9,1%未満,1%未満,n-Butylamine,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+434,ノルマル―ブチルエチルケトン,106-35-4,1%未満,1%未満,n-Butyl ethyl ketone,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+435,ノルマル―ブチル―２，３―エポキシプロピルエーテル,2426-08-6,1%未満,0.1%未満,"n-Butyl 2,3-epoxypropyl ether","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+436,Ｎ―［１―（Ｎ―ノルマル―ブチルカルバモイル）―１Ｈ―２―ベンゾイミダゾリル］カルバミン酸メチル（別名ベノミル）,17804-35-2,0.1%未満,0.1%未満,Methyl N-[1-(N-n-butylcarbamoyl)-1H-2-benzimidazolyl]carbamate (alias Benomyl),"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+437,白金及びその水溶性塩,＊,1%未満,0.1%未満,Platinum and its water-soluble salts,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+438,ハフニウム及びその化合物,＊,1%未満,1%未満,Hafnium and its compounds,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+439,パラ―アニシジン,104-94-9,1%未満,1%未満,p-Anisidine,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+440,パラ―クロロアニリン,106-47-8,1%未満,0.1%未満,p-Chloroaniline,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+441,パラ―ジクロロベンゼン,106-46-7,0.3%未満,0.1%未満,p-Dichlorobenzene,"0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+442,パラ―ジメチルアミノアゾベンゼン,60-11-7,1%未満,0.1%未満,p-Dimethylaminoazobenzene,"1%, no less than ","0.1%, no less than ",○第2類,,,,1%,1.0%,0.1%,0.1%
+443,パラ―ターシャリ―ブチルトルエン,98-51-1,0.3%未満,0.1%未満,p-tert-Butyltoluene,"0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+444,パラ―ニトロアニリン,100-01-6,1%未満,0.1%未満,p-Nitroaniline,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+445,パラ―ニトロクロロベンゼン,100-00-5,1%未満,0.1%未満,p-Nitrochlorobenzene,"1%, no less than ","0.1%, no less than ",○第2類,,,,1%,1.0%,0.1%,0.1%
+446,パラ―フェニルアゾアニリン,60-09-3,1%未満,0.1%未満,p-Phenylazoaniline,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+447,パラ―ベンゾキノン,106-51-4,1%未満,1%未満,p-Benzoquinone,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+448,パラ―メトキシフェノール,150-76-5,1%未満,1%未満,p-Methoxyphenol,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+449,バリウム及びその水溶性化合物,＊,1%未満,1%未満,Barium and its water-soluble compounds,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+450,ピクリン酸,88-89-1,－,－,Picric acid,－,－,,,,,0,0.0%,0,0.0%
+451,ビス（２，３―エポキシプロピル）エーテル,2238-07-5,1%未満,1%未満,"Bis(2,3-epoxypropyl) ether","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+452,１，３―ビス［（２，３―エポキシプロピル）オキシ］ベンゼン,101-90-6,1%未満,0.1%未満,"1,3-Bis[(2,3-epoxypropyl)oxy]benzene","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+453,ビス（２―クロロエチル）エーテル,111-44-4,1%未満,1%未満,Bis(2-chloroethyl) ether,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+454,ビス（２―クロロエチル）スルフィド（別名マスタードガス）,505-60-2,0.1%未満,0.1%未満,Bis(2-chloroethyl) sulfide (alias Mustard gas),"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+455,Ｎ，Ｎ―ビス（２―クロロエチル）メチルアミン―Ｎ―オキシド,126-85-2,0.1%未満,0.1%未満,"N,N-Bis(2-chloroethyl)methylamine N-oxide","0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+456,ビス（ジチオりん酸）Ｓ，Ｓ′―メチレン―Ｏ，Ｏ，　Ｏ′，Ｏ′―テトラエチル（別名エチオン）,563-12-2,1%未満,1%未満,"O,O,O',O'-Tetraethyl S,S'-methylene bis(phosphorodithioate) (alias Ethion)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+457,ビス（２―ジメチルアミノエチル）エーテル,3033-62-3,1%未満,1%未満,Bis(2-dimethylaminoethyl) ether,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+458,砒素及びその化合物,＊,0.1%未満,0.1%未満,Arsenic and its compounds,"0.1%, no less than ","0.1%, no less than ","○第2類
+※アルシンと砒化ガリウムを除く",,,,0.1%,0.1%,0.1%,0.1%
+459,ヒドラジン,302-01-2,1%未満,0.1%未満,Hydrazine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+460,ヒドラジン一水和物,7803-57-8,1%未満,0.1%未満,Hydrazine monohydrate,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+461,ヒドロキノン,123-31-9,0.1%未満,0.1%未満,Hydroquinone,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+462,４―ビニル―１―シクロヘキセン,100-40-3,1%未満,0.1%未満,4-Vinyl-1-cyclohexene,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+463,４―ビニルシクロヘキセンジオキシド,106-87-6,1%未満,0.1%未満,4-Vinylcyclohexene dioxide,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+464,ビニルトルエン,25013-15-4,1%未満,1%未満,Vinyltoluene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+464-2,Ｎ―ビニル―２―ピロリドン,88-12-0,1%未満,0.1%未満,N-Vinyl-2-pyrrolidone,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+465,ビフェニル,92-52-4,1%未満,0.1%未満,Biphenyl,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+466,ピペラジン二塩酸塩,142-64-3,1%未満,1%未満,Piperazine dihydrochloride,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+467,ピリジン,110-86-1,1%未満,0.1%未満,Pyridine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+468,ピレトラム,8003-34-7,1%未満,0.1%未満,Pyrethrum,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+468-2,フェニルイソシアネート,103-71-9,1%未満,0.1%未満,Phenyl isocyanate,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+469,フェニルオキシラン,96-09-3,0.1%未満,0.1%未満,Phenyloxirane,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+470,フェニルヒドラジン,100-63-0,1%未満,0.1%未満,Phenylhydrazine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+471,フェニルホスフィン,638-21-1,1%未満,0.1%未満,Phenylphosphine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+472,フェニレンジアミン,25265-76-3,1%未満,0.1%未満,Phenylenediamine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+472,ｏ－フェニレンジアミン,95-54-5,1%未満,0.1%未満,o-Phenylenediamine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+472,ｍ－フェニレンジアミン,108-45-2,1%未満,0.1%未満,m-Phenylenediamine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+472,ｐ－フェニレンジアミン,106-50-3,1%未満,0.1%未満,p-Phenylenediamine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+473,フェノチアジン,92-84-2,1%未満,1%未満,Phenothiazine,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+474,フェノール,108-95-2,0.1%未満,0.1%未満,Phenol,"0.1%, no less than ","0.1%, no less than ",○第3類,,,,0.1%,0.1%,0.1%,0.1%
+475,フェロバナジウム,12604-58-9,1%未満,1%未満,Ferrovanadium,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+476,１，３―ブタジエン,106-99-0,0.1%未満,0.1%未満,"1,3-Butadiene","0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+477,ブタノール,下記,1%未満,0.1%未満,Butanol,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+477,１－ブタノール,71-36-3,1%未満,0.1%未満,1-Butanol,"1%, no less than ","0.1%, no less than ",,○第2種,,,1%,1.0%,0.1%,0.1%
+477,２－ブタノール,78-92-2,1%未満,0.1%未満,2-Butanol,"1%, no less than ","0.1%, no less than ",,○第2種,,,1%,1.0%,0.1%,0.1%
+477,イソブタノール（イソブチルアルコール）,78-83-1,1%未満,0.1%未満,Isobutanol,"1%, no less than ","0.1%, no less than ",,○第2種,,,1%,1.0%,0.1%,0.1%
+477,tert－ブタノール,75-65-0,1%未満,0.1%未満,tert-Butanol,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+478,フタル酸ジエチル,84-66-2,1%未満,0.1%未満,Diethyl phthalate,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+479,フタル酸ジ―ノルマル―ブチル,84-74-2,0.3%未満,0.1%未満,Di-n-butyl phthalate,"0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+480,フタル酸ジメチル,131-11-3,1%未満,1%未満,Dimethyl phthalate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+481,フタル酸ビス（２―エチルヘキシル）（別名ＤＥＨＰ）,117-81-7,0.3%未満,0.1%未満,Bis (2-ethylhexyl) phthalate (alias DEHP),"0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+482,ブタン,106-97-8他,1%未満,1%未満,Butane,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+482-2,２，３―ブタンジオン（別名ジアセチル）,431-03-8,1%未満,0.1%未満,"2,3-Butanedione","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+483,１―ブタンチオール,109-79-5,1%未満,1%未満,1-Butanethiol,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+484,弗化カルボニル,353-50-4,1%未満,1%未満,Carbonyl fluoride,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+485,弗化ビニリデン,75-38-7,1%未満,1%未満,Vinylidene fluoride,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+486,弗化ビニル,75-02-5,0.1%未満,0.1%未満,Vinyl fluoride,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+487,弗素及びその水溶性無機化合物,＊,1%未満,0.1%未満,Fluorine and its water-soluble inorganic compounds,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+487,弗化水素,7664-39-3,1%未満,0.1%未満,Hydrogen fluoride,"1%, no less than ","0.1%, no less than ",○第2類,,,,1%,1.0%,0.1%,0.1%
+488,２―ブテナール,123-73-9,0.1%未満,0.1%未満,2-Butenal,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+488-2,ブテン,25167-67-3,1%未満,1%未満,Butene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+488-2,１－ブテン,106-98-9,1%未満,1%未満,1-Butene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+488-2,２－ブテン,107-01-7他,1%未満,1%未満,2-Butene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+488-2,イソブテン,115-11-7,1%未満,1%未満,Isobutene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+489,フルオロ酢酸ナトリウム,62-74-8,1%未満,1%未満,Sodium fluoroacetate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+490,フルフラール,98-01-1,1%未満,0.1%未満,Furfural,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+491,フルフリルアルコール,98-00-0,1%未満,1%未満,Furfuryl alcohol,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+492,１，３―プロパンスルトン,1120-71-4,0.1%未満,0.1%未満,"1,3-Propanesultone","0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+492-2,プロピオンアルデヒド,123-38-6,1%未満,1%未満,Propionaldehyde,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+493,プロピオン酸,79-09-4,1%未満,1%未満,Propionic acid,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+494,プロピルアルコール,下記,1%未満,0.1%未満,Propyl alcohol,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+494,ｎ－プロピルアルコール,71-23-8,1%未満,0.1%未満,n-Propyl alcohol,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+494,イソプロピルアルコール,67-63-0,1%未満,0.1%未満,Isopropyl alcohol,"1%, no less than ","0.1%, no less than ",,○第2種,,,1%,1.0%,0.1%,0.1%
+495,プロピレンイミン,75-55-8,1%未満,0.1%未満,Propylenimine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+496,プロピレングリコールモノメチルエーテル,107-98-2,1%未満,1%未満,Propylene glycol monomethyl ether,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+497,２―プロピン―１―オール,107-19-7,1%未満,1%未満,2-Propyn-1-ol,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+497-2,プロペン,115-07-1,1%未満,1%未満,Propene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+498,ブロモエチレン,593-60-2,0.1%未満,0.1%未満,Bromoethylene,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+499,２―ブロモ―２―クロロ―１，１，１―トリフルオロエタン（別名ハロタン）,151-67-7,1%未満,0.1%未満,"2-Bromo-2-chloro-1,1,1-trifluoroethane (alias Halothane)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+500,ブロモクロロメタン,74-97-5,1%未満,1%未満,Bromochloromethane,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+501,ブロモジクロロメタン,75-27-4,1%未満,0.1%未満,Bromodichloromethane,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+502,５―ブロモ―３―セカンダリ―ブチル―６―メチル―１，２，３，４―テトラヒドロピリミジン―２，４―ジオン（別名ブロマシル）,314-40-9,1%未満,0.1%未満,"5-Bromo-3-sec-butyl-6-methyl-2,4(1H,3H)-pyrimidinedione (alias Bromacil)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+503,ブロモトリフルオロメタン,75-63-8,1%未満,1%未満,Bromotrifluoromethane,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+503-2,１―ブロモプロパン,106-94-5,1%未満,0.1%未満,1-Bromopropane,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+504,２―ブロモプロパン,75-26-3,0.3%未満,0.1%未満,2-Bromopropane,"0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+504-2,３―ブロモ―１―プロペン（別名臭化アリル）,106-95-6,1%未満,1%未満,3-Bromo-1-propene (alias Allyl bromide),"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+505,ヘキサクロロエタン,67-72-1,1%未満,0.1%未満,Hexachloroethane,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+506,１，２，３，４，１０，１０―ヘキサクロロ―６，７―エポキシ―１，４，４ａ，５，６，７，８，８ａ―オクタヒドロ―エキソ―１，４―エンド―５，８―ジメタノナフタレン（別名ディルドリン）,60-57-1,0.3%未満,0.1%未満,"1,2,3,4,10,10-Hexachloro-6,7-epoxy-1,4, 4a, 5, 6, 7, 8, 8a-octahydro-endo-1,4-exo-5,8-dimethanonaphthalene (alias Dieldrin)","0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+507,１，２，３，４，１０，１０―ヘキサクロロ―６，７―エポキシ―１，４，４ａ，５，６，７，８，８ａ―オクタヒドロ―エンド―１，４―エンド―５，８―ジメタノナフタレン（別名エンドリン）,72-20-8,1%未満,1%未満,"1,2,3,4,10,10-Hexachloro-6,7-epoxy-1,4, 4a, 5, 6, 7, 8, 8a-octahydro-endo-1,4-endo-5,8-dimethanonaphthalene (alias Endrin)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+508,１，２，３，４，５，６―ヘキサクロロシクロヘキサン（別名リンデン）,608-73-1,1%未満,0.1%未満,"1,2,3,4,5,6-Hexachlorocyclohexane (alias Lindane)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+509,ヘキサクロロシクロペンタジエン,77-47-4,1%未満,0.1%未満,Hexachlorocyclopentadiene,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+510,ヘキサクロロナフタレン,1335-87-1,1%未満,1%未満,Hexachloronaphthalene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+511,１，４，５，６，７，７―ヘキサクロロビシクロ［２，２，１］―５―ヘプテン―２，３―ジカルボン酸（別名クロレンド酸）,115-28-6,1%未満,0.1%未満,"1,4,5,6,7,7-Hexachlorobicyclo [2.2.1]-5-heptene-2,3-dicarboxylic acid (alias Chlorendic acid)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+512,１，２，３，４，１０，１０―ヘキサクロロ―１，４，４ａ，５，８，８ａ―ヘキサヒドロ―エキソ―１，４―エンド―５，８―ジメタノナフタレン（別名アルドリン）,309-00-2,1%未満,0.1%未満,"1,2,3,4,10,10-Hexachloro-1, 4, 4a, 5, 8, 8a-hexahydro-endo-1,4-exo-5,8-dimethanonaphthalene (alias Aldrin)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+513,ヘキサクロロヘキサヒドロメタノベンゾジオキサチエピンオキサイド（別名ベンゾエピン）,115-29-7,1%未満,1%未満,"Hexachlorohexahydromethanobenzodioxathiepinoxide; 6,7,8,9,10,10-Hexachloro-1,5,5a,6,9,9a-hexahydro-6,9-methano-2,4,3-benzodioxathiepine 3-oxide (alias Benzoepin)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+514,ヘキサクロロベンゼン,118-74-1,0.3%未満,0.1%未満,Hexachlorobenzene,"0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+515,ヘキサヒドロ―１，３，５―トリニトロ―１，３，５―トリアジン（別名シクロナイト）,121-82-4,1%未満,1%未満,"Hexahydro-1,3,5-trinitro-1,3,5-triazine (alias Cyclonite)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+516,ヘキサフルオロアセトン,684-16-2,1%未満,0.1%未満,Hexafluoroacetone,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+516-2,ヘキサフルオロアルミン酸三ナトリウム,13775-53-6,1%未満,1%未満,Trisodium hexafluoroaluminate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+516-3,ヘキサフルオロプロペン,116-15-4,1%未満,1%未満,Hexafluoropropene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+517,ヘキサメチルホスホリックトリアミド,680-31-9,0.1%未満,0.1%未満,Hexamethylphosphoric triamide,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+518,ヘキサメチレンジアミン,124-09-4,1%未満,0.1%未満,Hexamethylenediamine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+519,ヘキサメチレン＝ジイソシアネート,822-06-0,1%未満,0.1%未満,Hexamethylene diisocyanate,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+520,ヘキサン,110-54-3他,1%未満,0.1%未満,Hexane,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+520,ｎ－ヘキサン,110-54-3,1%未満,0.1%未満,n-Hexane,"1%, no less than ","0.1%, no less than ",,○第2種,,,1%,1.0%,0.1%,0.1%
+521,１―ヘキセン,592-41-6,1%未満,1%未満,1-Hexene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+522,ベータ―ブチロラクトン,3068-88-0他,1%未満,0.1%未満,β-Butyrolactone,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+523,ベータ―プロピオラクトン,57-57-8,0.1%未満,0.1%未満,β-Propiolactone,"0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+524,１，４，５，６，７，８，８―ヘプタクロロ―２，３―エポキシ―３ａ，４，７，７ａ―テトラヒドロ―４，７―メタノ―１Ｈ―インデン（別名ヘプタクロルエポキシド）,1024-57-3,0.3%未満,0.1%未満,"1,4,5,6,7,8,8-Heptachloro-2,3-epoxy-3a,4,7,7a-tetrahydro-4,7-methano-1H-indene (alias Heptachlor epoxide)","0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+525,１，４，５，６，７，８，８―ヘプタクロロ―３ａ，４，７，７ａ―テトラヒドロ―４，７―メタノ―１Ｈ―インデン（別名ヘプタクロル）,76-44-8,0.3%未満,0.1%未満,"1,4,5,6,7,8,8-Heptachloro-3a,4,7,7a-tetrahydro-4,7-methano-1H-indene (alias Heptachlor)","0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+526,ヘプタン,142-82-5他,1%未満,1%未満,Heptane,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+527,ペルオキソ二硫酸アンモニウム,7727-54-0,1%未満,0.1%未満,Ammonium peroxodisulfate,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+528,ペルオキソ二硫酸カリウム,7727-21-1,1%未満,0.1%未満,Potassium peroxodisulfate,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+529,ペルオキソ二硫酸ナトリウム,7775-27-1,1%未満,0.1%未満,Sodium peroxodisulfate,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+530,ペルフルオロオクタン酸,335-67-1,0.3%未満,0.1%未満,Perfluorooctanoic acid,"0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+530,ペルフルオロオクタン酸アンモニウム塩,3825-26-1,1%未満,0.1%未満,Perfluorooctanoic acid ammonium salt,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+531,ベンゼン,71-43-2,0.1%未満,0.1%未満,Benzene,"0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+532,１，２，４―ベンゼントリカルボン酸１，２―無水物,552-30-7,1%未満,0.1%未満,"1,2,4-Benzenetricarboxylic 1,2-anhydride","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+533,ベンゾ［ａ］アントラセン,56-55-3,1%未満,0.1%未満,Benzo[a]anthracene,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+534,ベンゾ［ａ］ピレン,50-32-8,0.1%未満,0.1%未満,Benzo[a]pyrene,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+535,ベンゾフラン,271-89-6,1%未満,0.1%未満,Benzofuran,"1%, no less than ","0.1%, no less than ",,,,,1%,1%,0.1%,0.1%
+536,ベンゾ［ｅ］フルオラセン,205-99-2,0.1%未満,0.1%未満,Benzo[e]fluoranthene,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+537,ペンタクロロナフタレン,1321-64-8,1%未満,1%未満,Pentachloronaphthalene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+538,ペンタクロロニトロベンゼン,82-68-8,1%未満,0.1%未満,Pentachloronitrobenzene,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+539,ペンタクロロフェノール（別名ＰＣＰ）,87-86-5,0.3%未満,0.1%未満,Pentachlorophenol (alias PCP) ,"0.3%, no less than ","0.1%, no less than ",○第2類,,,,0.3%,0.3%,0.1%,0.1%
+539,ペンタクロロフェノール（別名ＰＣＰ）ナトリウム塩,131-52-2,0.3%未満,0.1%未満,Pentachlorophenol (alias PCP) sodium salts,"0.3%, no less than ","0.1%, no less than ",○第2類,,,,0.3%,0.3%,0.1%,0.1%
+540,１―ペンタナール,110-62-3,1%未満,1%未満,1-Pentanal,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+541,１，１，３，３，３―ペンタフルオロ―２―（トリフルオロメチル）―１―プロペン（別名ＰＦＩＢ）,382-21-8,1%未満,1%未満,"1,1,3,3,3-Pentafluoro-2-(trifluoromethyl)-1-propene (alias PFIB)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+542,ペンタボラン,19624-22-7,1%未満,1%未満,Pentaborane,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+543,ペンタン,109-66-0他,1%未満,1%未満,Pentane,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+544,ほう酸,10043-35-3,0.3%未満,0.1%未満,Boric acid,"0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+544,ほう酸ナトリウム,1330-43-4,1%未満,0.1%未満,Sodium borate,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+545,ホスゲン,75-44-5,1%未満,1%未満,Phosgene,"1%, no less than ","1%, no less than ",○第3類,,,,1%,1.0%,1%,1.0%
+545-2,ポルトランドセメント,65997-15-1,1%未満,1%未満,Portlamd cement,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+546,（２―ホルミルヒドラジノ）―４―（５―ニトロ―２―フリル）チアゾール,3570-75-0,1%未満,0.1%未満,2-(2-Formylhydrazino)-4-(5-nitro-2-furyl)thiazole,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+547,ホルムアミド,75-12-7,0.3%未満,0.1%未満,Formamide,"0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+548,ホルムアルデヒド,50-00-0,0.1%未満,0.1%未満,Formaldehyde,"0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+549,マゼンタ,632-99-5,1%未満,0.1%未満,Magenta,"1%, no less than ","0.1%, no less than ",○第2類,,,,1%,1.0%,0.1%,0.1%
+550,マンガン,7439-96-5,0.3%未満,0.1%未満,Manganese,"0.3%, no less than ","0.1%, no less than ",○第2類,,,,0.3%,0.3%,0.1%,0.1%
+550,無機マンガン化合物,＊,1%未満,0.1%未満,Manganese inorganic compounds,"1%, no less than ","0.1%, no less than ","○第2類
+※無機に限定せず。塩基性酸化マンガンを除く。",,,,1%,1.0%,0.1%,0.1%
+551,ミネラルスピリット（ミネラルシンナー、ペトロリウムスピリット、ホワイトスピリット及びミネラルターペンを含む。）,64742-47-8,1%未満,1%未満,"Mineral spirits (include mineral thinner, petroleum spirits, white spirits and mineral turpentine)","1%, no less than ","1%, no less than ",,○第3種,,,1%,1.0%,1%,1.0%
+552,無水酢酸,108-24-7,1%未満,1%未満,Acetic anhydride,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+553,無水フタル酸,85-44-9,1%未満,0.1%未満,Phthalic anhydride,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+554,無水マレイン酸,108-31-6,1%未満,0.1%未満,Maleic anhydride,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+555,メタ―キシリレンジアミン,1477-55-0,1%未満,0.1%未満,m-Xylylenediamine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+556,メタクリル酸,79-41-4,1%未満,1%未満,Methacrylic acid,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+557,メタクリル酸メチル,80-62-6,1%未満,0.1%未満,Methyl methacrylate,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+558,メタクリロニトリル,126-98-7,0.3%未満,0.1%未満,Methacrylonitrile,"0.3%, no less than ","0.1%, no less than ",,,,,0.3%,0.3%,0.1%,0.1%
+559,メタ―ジシアノベンゼン,626-17-5,1%未満,1%未満,m-Dicyanobenzene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+560,メタノール,67-56-1,0.3%未満,0.1%未満,Methanol,"0.3%, no less than ","0.1%, no less than ",,○第2種,,,0.3%,0.3%,0.1%,0.1%
+561,メタンスルホン酸エチル,62-50-0,0.1%未満,0.1%未満,Ethyl methanesulfonate,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+562,メタンスルホン酸メチル,66-27-3,0.1%未満,0.1%未満,Methyl methanesulfonate,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+563,メチラール,109-87-5,1%未満,1%未満,Methylal,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+564,メチルアセチレン,74-99-7,1%未満,1%未満,Methylacetylene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+565,Ｎ―メチルアニリン,100-61-8,1%未満,1%未満,N-Methylaniline,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+566,２，２′―［［４―（メチルアミノ）―３―ニトロフェニル］アミノ］ジエタノール（別名ＨＣブルーナンバー１）,2784-94-3,1%未満,0.1%未満,"2,2'-[[4-(Methylamino)-3-nitrophenyl]amino]diethanol (alias HC blue No.1)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+567,Ｎ―メチルアミノホスホン酸Ｏ―（４―ターシャリ―ブチル―２―クロロフェニル）―Ｏ―メチル（別名クルホメート）,299-86-5,1%未満,1%未満,O-(4-tert-Butyl-2-chlorophenyl) O-methyl N-methylaminophosphonate (alias Crufomate),"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+568,メチルアミン,74-89-5,0.1%未満,0.1%未満,Methylamine,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+569,メチルイソブチルケトン,108-10-1,1%未満,0.1%未満,Methyl isobutyl ketone,"1%, no less than ","0.1%, no less than ",○第2類,,,,1%,1.0%,0.1%,0.1%
+570,メチルエチルケトン,78-93-3,1%未満,1%未満,Methyl ethyl ketone,"1%, no less than ","1%, no less than ",,○第2種,,,1%,1.0%,1%,1.0%
+571,Ｎ―メチルカルバミン酸２―イソプロピルオキシフェニル（別名プロポキスル）,114-26-1,0.1%未満,0.1%未満,2-Isopropoxyphenyl N-methylcarbamate (alias Propoxur),"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+572,Ｎ―メチルカルバミン酸２，３―ジヒドロ―２，２―ジメチル―７―ベンゾ［ｂ］フラニル（別名カルボフラン）,1563-66-2,1%未満,1%未満,"2,3-Dihydro-2,2-dimethyl-7-benzo[b]furanyl N-methylcarbamate (alias Carbofuran)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+573,Ｎ―メチルカルバミン酸２―セカンダリ―ブチルフェニル（別名フェノブカルブ）,3766-81-2,1%未満,1%未満,2-sec-Butylphenyl N-methylcarbamate (alias Fenobucarb),"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+574,メチルシクロヘキサノール,25639-42-3他,1%未満,1%未満,Methylcyclohexanol,"1%, no less than ","1%, no less than ",,○第2種,,,1%,1.0%,1%,1.0%
+575,メチルシクロヘキサノン,1331-22-2他,1%未満,1%未満,Methylcyclohexanone,"1%, no less than ","1%, no less than ",,○第2種,,,1%,1.0%,1%,1.0%
+576,メチルシクロヘキサン,108-87-2,1%未満,1%未満,Methylcyclohexane,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+577,２―メチルシクロペンタジエニルトリカルボニルマンガン,12108-13-3,1%未満,1%未満,2-Methylcyclopentadienyl manganese tricarbonyl,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+578,２―メチル―４，６―ジニトロフェノール,534-52-1,0.1%未満,0.1%未満,"2-Methyl-4,6-dinitrophenol","0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+579,２―メチル―３，５―ジニトロベンズアミド（別名ジニトルミド）,148-01-6,1%未満,1%未満,"2-Methyl-3,5-dinitrobenzamide (alias Dinitolmide)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+580,メチル―ターシャリ―ブチルエーテル（別名ＭＴＢＥ）,1634-04-4,1%未満,0.1%未満,Methyl tert-butyl ether (alias MTBE),"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+581,５―メチル―１，２，４―トリアゾロ［３，４―ｂ］ベンゾチアゾール（別名トリシクラゾール）,41814-78-2,1%未満,1%未満,"5-Methyl-1,2,4-triazolo[3,4-b]benzothiazole (alias Tricyclazole)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+582,２―メチル―４―（２―トリルアゾ）アニリン,97-56-3,0.1%未満,0.1%未満,2-Methyl-4-(2-tolylazo)aniline,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+582-2,メチルナフタレン,下記,1%未満,1%未満,Methylnaphthalene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+582-2,１－メチルナフタレン,90-12-0,1%未満,1%未満,1-Methylnaphthalene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+582-2,２－メチルナフタレン,91-57-6,1%未満,1%未満,2-Methylnaphthalene,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+582-3,２―メチル―５―ニトロアニリン,99-55-8,1%未満,0.1%未満,2-Methyl-5-nitroaniline,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+583,２―メチル―１―ニトロアントラキノン,129-15-7,1%未満,0.1%未満,2-Methyl-1-nitroanthraquinone,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+584,Ｎ―メチル―Ｎ―ニトロソカルバミン酸エチル,615-53-2,1%未満,0.1%未満,Ethyl N-methyl-N-nitrosocarbamate,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+585,メチル―ノルマル―ブチルケトン,591-78-6,1%未満,1%未満,Methyl n-butyl ketone,"1%, no less than ","1%, no less than ",,○第2種,,,1%,1.0%,1%,1.0%
+586,メチル―ノルマル―ペンチルケトン,110-43-0,1%未満,1%未満,Methyl n-pentyl ketone,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+587,メチルヒドラジン,60-34-4,1%未満,0.1%未満,Methylhydrazine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+588,メチルビニルケトン,78-94-4,1%未満,0.1%未満,Methyl vinyl ketone,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+588-2,Ｎ―メチル―２―ピロリドン,872-50-4,1%未満,0.1%未満,N-Methyl-2-pyrrolidone,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+589,１―［（２―メチルフェニル）アゾ］―２―ナフトール（別名オイルオレンジＳＳ）,2646-17-5,1%未満,0.1%未満,1-[(2-Methylphenyl)azo]-2-naphthol (alias Oil orange SS),"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+590,メチルプロピルケトン,107-87-9,1%未満,1%未満,Methyl propyl ketone,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+591,５―メチル―２―ヘキサノン,110-12-3,1%未満,1%未満,5-Methyl-2-hexanone,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+592,４―メチル―２―ペンタノール,108-11-2,1%未満,1%未満,4-Methyl-2-pentanol,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+593,２―メチル―２，４―ペンタンジオール,107-41-5,1%未満,1%未満,"2-Methyl-2,4-pentanediol","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+594,２―メチル―Ｎ―［３―（１―メチルエトキシ）フェニル］ベンズアミド（別名メプロニル）,55814-41-0,1%未満,1%未満,2-Methyl-N-[3-(1-methylethoxy)phenyl]benzamide (alias Mepronil),"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+595,Ｓ―メチル―Ｎ―（メチルカルバモイルオキシ）チオアセチミデート（別名メソミル）,16752-77-5,1%未満,1%未満,S-Methyl N-(methylcarbamoyloxy)thioacetimidate (alias Methomyl),"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+596,メチルメルカプタン,74-93-1,1%未満,1%未満,Methyl mercaptan,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+597,４，４′―メチレンジアニリン,101-77-9,1%未満,0.1%未満,"4,4'-Methylenedianiline","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+598,メチレンビス（４，１―シクロヘキシレン）＝ジイソシアネート,5124-30-1,1%未満,0.1%未満,"Methylenebis (4,1-cyclohexylene) diisocyanate","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+599,メチレンビス（４，１―フェニレン）＝ジイソシアネート（別名ＭＤＩ）,101-68-8,1%未満,0.1%未満,"Methylenebis (4,1-phenylene) diisocyanate (alias MDI)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+600,２―メトキシ―５―メチルアニリン,120-71-8,1%未満,0.1%未満,2-Methoxy-5-methylaniline,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+601,１―（２―メトキシ―２―メチルエトキシ）―２―プロパノール,34590-94-8,1%未満,1%未満,1-(2-Methoxy-2-methylethoxy)-2-propanol,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+601-2,２―メトキシ―２―メチルブタン（別名ターシャリ―アミルメチルエーテル）,994-05-8,1%未満,0.1%未満,2-methoxy-2-methylbutane,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+602,メルカプト酢酸,68-11-1,1%未満,0.1%未満,Mercaptoacetic acid,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+603,モリブデン及びその化合物,＊,1%未満,0.1%未満,Molybdenum and its compounds,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+604,モルホリン,110-91-8,1%未満,1%未満,Morpholine,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+606,沃素,7553-56-2,1%未満,0.1%未満,Iodine,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+606,沃素化合物（沃化物）　,＊,1%未満,1%未満,Iodides,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+606,沃化メチル,74-88-4,1%未満,1%未満,Methyl iodide,"1%, no less than ","1%, no less than ",○第2類,,,,1%,1.0%,1%,1.0%
+607,ヨードホルム,75-47-8,1%未満,1%未満,Iodoform,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+607-2,硫化カルボニル,463-58-1,1%未満,1%未満,Carbonyl sulphide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+608,硫化ジメチル,75-18-3,1%未満,1%未満,Dimethyl sulfide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+609,硫化水素,7783-06-4,1%未満,1%未満,Hydrogen sulfide,"1%, no less than ","1%, no less than ",○第2類,,,,1%,1.0%,1%,1.0%
+610,硫化水素ナトリウム,16721-80-5,1%未満,1%未満,Sodium hydrogensulfide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+611,硫化ナトリウム,1313-82-2,1%未満,1%未満,Sodium sulfide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+612,硫化りん,1314-80-3他,1%未満,1%未満,Phosphorus sulfide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+613,硫酸,7664-93-9,1%未満,1%未満,Sulfuric acid,"1%, no less than ","1%, no less than ",○第3類,,,,1%,1.0%,1%,1.0%
+614,硫酸ジイソプロピル,2973-10-6,1%未満,0.1%未満,Diisopropyl sulfate,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+615,硫酸ジエチル,64-67-5,0.1%未満,0.1%未満,Diethyl sulfate,"0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+616,硫酸ジメチル,77-78-1,0.1%未満,0.1%未満,Dimethyl sulfate,"0.1%, no less than ","0.1%, no less than ",○第2類,,,,0.1%,0.1%,0.1%,0.1%
+617,りん化水素,7803-51-2,1%未満,1%未満,Hydrogen phosphide,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+618,りん酸,7664-38-2,1%未満,1%未満,Phosphoric acid,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+619,りん酸ジ―ノルマル―ブチル,107-66-4,1%未満,1%未満,Di-n-butyl phosphate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+620,りん酸ジ―ノルマル―ブチル＝フェニル,2528-36-1,1%未満,1%未満,Di-n-butyl phenyl phosphate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+621,りん酸１，２―ジブロモ―２，２―ジクロロエチル＝ジメチル（別名ナレド）,300-76-5,1%未満,0.1%未満,"1,2-Dibromo-2,2-dichloroethyl dimethyl phosphate (alias Naled)","1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+622,りん酸ジメチル＝（Ｅ）―１―（Ｎ，Ｎ―ジメチルカルバモイル）―１―プロペン―２―イル（別名ジクロトホス）,141-66-2,1%未満,1%未満,"Dimethyl (E)-1-(N,N-dimethylcarbamoyl)-1-propen-2-yl phosphate (alias Dicrotophos)","1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+623,りん酸ジメチル＝（Ｅ）―１―（Ｎ―メチルカルバモイル）―１―プロペン―２―イル（別名モノクロトホス）,6923-22-4,1%未満,1%未満,Dimethyl (E)-1-(N-methylcarbamoyl)-1-propen-2-yl phosphate (alias Monocrotophos),"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+624,りん酸ジメチル＝１―メトキシカルボニル―１―プロペン―２―イル（別名メビンホス）,7786-34-7,1%未満,1%未満,Dimethyl 1-methoxycarbonyl-1-propen-2-yl phosphate (alias Mevinphos),"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+625,りん酸トリ（オルト―トリル）,78-30-8,1%未満,1%未満,Tri (o-tolyl) phosphate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+626,りん酸トリス（２，３―ジブロモプロピル）,126-72-7,0.1%未満,0.1%未満,"Tris (2,3-dibromopropyl) phosphate","0.1%, no less than ","0.1%, no less than ",,,,,0.1%,0.1%,0.1%,0.1%
+627,りん酸トリ―ノルマル―ブチル,126-73-8,1%未満,1%未満,Tri-n-butyl phosphate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+628,りん酸トリフェニル,115-86-6,1%未満,1%未満,Triphenyl phosphate,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+629,レソルシノール,108-46-3,1%未満,0.1%未満,Resorcinol,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+630,六塩化ブタジエン,87-68-3,1%未満,0.1%未満,Hexachlorobutadiene,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+631,ロジウム及びその化合物,＊,1%未満,0.1%未満,Rhodium and its compounds,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+632,ロジン,8050-09-7,1%未満,0.1%未満,Rosin,"1%, no less than ","0.1%, no less than ",,,,,1%,1.0%,0.1%,0.1%
+633,ロテノン,83-79-4,1%未満,1%未満,Rotenone,"1%, no less than ","1%, no less than ",,,,,1%,1.0%,1%,1.0%
+oga,C.I. Pigment black 26,68186-94-7,1%未満,0.1%未満,C.I. Pigment black 26,,,○第2類,,,,1%,1.0%,0.1%,0.1%
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
